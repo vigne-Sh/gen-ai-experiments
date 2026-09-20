@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "vignesh-gen-ai-factory",
-      "source": "./plugins/vignesh-gen-ai-factory",
+      "name": "viky-gen-ai-factory",
+      "source": "./plugins/viky-gen-ai-factory",
       "description": "A growing collection of Claude skills. Currently: Indian law guidance (sections, case judgments, official sources, Tamil Nadu grievance and legal-aid channels).",
       "version": "1.0.0",
       "category": "legal",

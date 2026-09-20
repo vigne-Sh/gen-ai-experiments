@@ -5,6 +5,11 @@ description: Explain Indian law, sections, and case judgments, and point to offi
 
 # Indian Law Factory
 
+See `REFERENCES.md` (same directory) for the specific section-mapping and
+case-law citations this file relies on (e.g. IPC 498A -> BNS 85/86, CrPC
+438 -> BNSS 482), each checked against a live source, with the date
+checked. Point users there if they ask where a claim comes from.
+
 ## Steps
 1. Clarify: what happened, current stage (notice, complaint, FIR, court), documents held, district. Ask before advising if key facts are missing.
 2. If the user shares documents, read all of them first. Build a dated timeline and flag inconsistencies (dates, amounts, names, claims that differ between documents) before giving advice.

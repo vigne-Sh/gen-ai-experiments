@@ -24,14 +24,14 @@ plugins/
       <skill-name>/SKILL.md       # one or more skills per plugin
 ```
 
-A plugin can bundle more than one skill — `vignesh-gen-ai-factory` is
+A plugin can bundle more than one skill — `viky-gen-ai-factory` is
 meant to grow this way rather than spinning up a new plugin per skill.
 Only split out a new plugin when a skill needs its own version/release
 cadence independent of the others.
 
 ## Adding a new skill
 
-1. Decide whether it belongs inside `plugins/vignesh-gen-ai-factory/skills/`
+1. Decide whether it belongs inside `plugins/viky-gen-ai-factory/skills/`
    (the general growing collection) or warrants its own plugin directory.
 2. Write `SKILL.md` with YAML frontmatter (`name`, `description` — the
    description is what triggers the skill, so make it specific about when
