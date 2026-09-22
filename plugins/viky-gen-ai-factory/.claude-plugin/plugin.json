@@ -1,7 +1,7 @@
 {
   "name": "viky-gen-ai-factory",
-  "description": "Viky's gen-AI skills factory: a growing collection of Claude skills - Indian law guidance and Tamil language help.",
-  "version": "1.1.0",
+  "description": "Viky's gen-AI skills factory: a growing collection of Claude skills - Indian law guidance and Tamil language help (translation/script/history, plus writing and proofreading).",
+  "version": "1.2.0",
   "author": {
     "name": "vigne-Sh",
     "url": "https://github.com/vigne-Sh"

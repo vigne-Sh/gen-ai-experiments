@@ -11,10 +11,10 @@
     {
       "name": "viky-gen-ai-factory",
       "source": "./plugins/viky-gen-ai-factory",
-      "description": "A growing collection of Claude skills: Indian law guidance (sections, case judgments, official sources, Tamil Nadu grievance and legal-aid channels), and Tamil language help (translation, script, grammar, history).",
-      "version": "1.1.0",
+      "description": "A growing collection of Claude skills: Indian law guidance (sections, case judgments, official sources, Tamil Nadu grievance and legal-aid channels), and Tamil language help (translation, script, grammar, history, plus careful writing/proofreading and legal Tamil documents).",
+      "version": "1.2.0",
       "category": "reference",
-      "keywords": ["india", "law", "legal", "BNS", "BNSS", "tamil-nadu", "matrimonial", "tamil", "language", "translation", "skills"]
+      "keywords": ["india", "law", "legal", "BNS", "BNSS", "tamil-nadu", "matrimonial", "tamil", "language", "translation", "proofreading", "spelling", "grammar", "skills"]
     }
   ]
 }
