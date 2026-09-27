@@ -1,12 +1,9 @@
 # tamil-language-expert
 
 A Claude Code skill for careful Tamil (தமிழ்) writing, translation,
-proofreading, and document work — distinct from
-[`tamil-language-factory`](../tamil-language-factory) (translation,
-script/grammar overview, and Tamil history). This one is focused on the
-practical checklists a fluent-Tamil writer or editor actually runs:
-spelling confusions, consonant-doubling at word boundaries, legal/formal
-vocabulary, and file-level mechanics (fonts, Unicode, rendering).
+proofreading, and document work — spelling confusions,
+consonant-doubling at word boundaries, legal/formal vocabulary, and
+file-level mechanics (fonts, Unicode, rendering).
 
 Part of the [`viky-gen-ai-factory`](../..) plugin in the
 [`gen-ai-experiments`](../../../..) marketplace.

@@ -11,7 +11,7 @@ preserved honestly here rather than smoothed over.
 
 | Claim in SKILL.md | Checked against |
 |---|---|
-| Tamil has 247 letters: 12 vowels (5 kuril/short + 7 nedil/long), 18 consonants, 216 uyirmei combinations (18×12), 1 aaythu eluttu (ஃ) | [Wikipedia - Tamil script](https://en.wikipedia.org/wiki/Tamil_script), [easytamiltyping.com](https://www.easytamiltyping.com/tamil/letters) — same figures already verified for [`tamil-language-factory`](../tamil-language-factory/REFERENCES.md) |
+| Tamil has 247 letters: 12 vowels (5 kuril/short + 7 nedil/long), 18 consonants, 216 uyirmei combinations (18×12), 1 aaythu eluttu (ஃ) | [Wikipedia - Tamil script](https://en.wikipedia.org/wiki/Tamil_script), [easytamiltyping.com](https://www.easytamiltyping.com/tamil/letters) |
 | The 18 consonants split into three groups of 6: vallinam (hard: க ச ட த ப ற), mellinam (soft/nasal: ங ஞ ண ந ம ன), idaiyinam (medium: ய ர ல வ ழ ள) — each vallinam-mellinam pair (க்-ங், ச்-ஞ், etc.) is called an இனம் | [Wikiversity - Tamil Language/Letters](https://en.wikiversity.org/wiki/Tamil_Language/Letters), [ilearntamil.com](https://ilearntamil.com/learn-tamil-alphabets/) |
 | Native Tamil words don't begin with ங ண ழ ள ற ன | [Wikiversity - Tamil Language/Letters](https://en.wikiversity.org/wiki/Tamil_Language/Letters) (matches SKILL.md section 3's slightly longer list, which also excludes ட and ர) |
 
