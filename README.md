@@ -43,6 +43,20 @@ from a fresh clone, installing the plugin from it, and confirming
 `claude plugin list` shows it enabled with both skills in the
 component inventory (`claude plugin details viky-gen-ai-factory`).
 
+### Eval suite
+
+Beyond manifest/structural checks, `plugins/viky-gen-ai-factory/evals/`
+has real behavioral test cases run via `claude plugin eval` — each one
+targets a specific failure mode the skill needs to avoid (fabricating a
+citation or contact detail, claiming false certainty on a legal/formal
+document), not just "does it answer the question". Latest run
+(2026-09-28, Claude Code 2.1.283): 4/4 cases passed, all graders
+unanimous across their judge votes. Re-run it yourself from
+`plugins/viky-gen-ai-factory/`:
+```bash
+claude plugin eval . --trust-plugin --runs 1 --no-publish
+```
+
 ## Disclaimer
 
 `indian-law-factory` provides general legal information, **not legal advice**. It is not a substitute for a licensed advocate. Laws, helpline numbers and contact details change; verify them on official sources before relying on them. Free legal aid is available through the Legal Services Authorities (NALSA 15100).

@@ -44,7 +44,21 @@ cadence independent of the others.
    python3 -c "import json; json.load(open('.claude-plugin/marketplace.json'))"
    claude plugin marketplace add .   # validates the manifest against a local path
    ```
-5. Update the plugin table in `README.md` and `AGENTS.md`.
+5. Add or extend eval cases under `plugins/viky-gen-ai-factory/evals/`
+   (one directory per case: `prompt.md` + `graders/criteria.md` — see the
+   existing cases for the format) covering the specific failure mode the
+   skill needs to avoid (fabricating a citation/contact detail, claiming
+   false certainty, etc. — not just "does it answer the question").
+   Run it before committing:
+   ```bash
+   cd plugins/viky-gen-ai-factory
+   claude plugin eval . --trust-plugin --runs 1 --no-publish
+   ```
+   A skill without at least one eval case testing its stated failure
+   modes is unverified in practice, not just untested in principle —
+   don't treat "it compiles and the manifest validates" as sufficient on
+   its own.
+6. Update the plugin table in `README.md` and `AGENTS.md`.
 
 ## Commit identity
 
