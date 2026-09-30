@@ -25,7 +25,7 @@ don't need to clone the repo or have push access.
 
 | Plugin | What it does |
 |---|---|
-| [`viky-gen-ai-factory`](plugins/viky-gen-ai-factory) | A growing collection of skills: [`indian-law-factory`](plugins/viky-gen-ai-factory/skills/indian-law-factory) — Indian law (BNS/BNSS/BSA, IPC/CrPC), how to read sections and case judgments, official legal sources, and Tamil Nadu grievance/legal-aid channels (CM Helpline, TNSLSA, 181). [`tamil-language-expert`](plugins/viky-gen-ai-factory/skills/tamil-language-expert) — careful Tamil writing, translating, proofreading, spelling/grammar checklists, and legal/formal Tamil documents. |
+| [`viky-gen-ai-factory`](plugins/viky-gen-ai-factory) | A growing collection of skills: [`indian-law-factory`](plugins/viky-gen-ai-factory/skills/indian-law-factory) — multi-domain Indian law research (constitutional, criminal, family/matrimonial, consumer, cyber/IT, corporate, tax/GST, labour, property, IP, RTI), with a live-research protocol that requires checking a specific fact before stating it rather than answering from memory, how to read sections and case judgments, official legal sources, and Tamil Nadu grievance/legal-aid channels (CM Helpline, TNSLSA, 181). [`tamil-language-expert`](plugins/viky-gen-ai-factory/skills/tamil-language-expert) — careful Tamil writing, translating, proofreading, spelling/grammar checklists, and legal/formal Tamil documents. |
 
 ### Install
 

@@ -1,28 +1,41 @@
 # indian-law-factory
 
-A Claude Code skill that explains Indian law: how to read a section, how
-to read a case judgment, which law applies by date (BNS/BNSS/BSA vs.
-IPC/CrPC/Evidence Act), and where to go for official sources and
-Tamil Nadu grievance/legal-aid support.
+A Claude Code skill for Indian law research across all major domains —
+not just criminal/matrimonial: constitutional, consumer, cyber/IT,
+corporate, tax/GST, labour, property, IP, RTI. It's built to be
+*agentic*, not a static lookup — its live-research protocol requires
+searching and cross-checking a specific fact (a section number, a
+threshold, a deadline) before stating it, rather than answering from
+memory alone.
 
 Part of the [`viky-gen-ai-factory`](../..) plugin in the
 [`gen-ai-experiments`](../../../..) marketplace.
 
 ## What it does
 
+- Covers the map of major Indian law domains (see the table in
+  `SKILL.md`) with the current governing Act(s), what each replaced, and
+  a pointer to research the specifics live — including recent regime
+  changes that are easy to get wrong from stale memory, like the four
+  Labour Codes only actually coming into force on 21 November 2025
+  despite being enacted years earlier.
+- For a substantive question, answers in a consistent, Wikipedia-style
+  structure (overview → governing law → key provisions → procedure/forum
+  → case law → next steps → caveats) rather than an unstructured reply.
 - Builds a dated timeline from documents you share (notice, FIR, court
   filings) and flags inconsistencies before giving advice.
 - Picks the right law by date: offences from 1 July 2024 onward fall
   under BNS/BNSS/BSA; earlier ones under IPC/CrPC/the Evidence Act. Always
   gives both numbers, e.g. IPC 498A → BNS 85/86 — see
   [`REFERENCES.md`](REFERENCES.md) for verified citations behind mappings
-  like this one.
+  like this one, across all the domains it covers.
 - Explains a section's ingredients, punishment, and
   bailable/cognizable/compoundable status, and a case's holding vs.
   obiter and whether it binds.
 - Points to official sources (India Code, e-Gazette, Supreme Court/High
-  Court sites, eCourts) and Tamil Nadu support channels (CM Helpline,
-  TNSLSA legal aid, Women Helpline 181) rather than inventing them.
+  Court sites, eCourts, CBIC, MCA, CIC, CERT-In) and Tamil Nadu support
+  channels (CM Helpline, TNSLSA legal aid, Women Helpline 181) rather
+  than inventing them.
 
 ## What it does not do
 
