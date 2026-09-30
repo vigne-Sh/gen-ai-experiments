@@ -25,7 +25,7 @@ don't need to clone the repo or have push access.
 
 | Plugin | What it does |
 |---|---|
-| [`viky-gen-ai-factory`](plugins/viky-gen-ai-factory) | A growing collection of skills: [`indian-law-factory`](plugins/viky-gen-ai-factory/skills/indian-law-factory) — multi-domain Indian law research (constitutional, criminal, family/matrimonial, consumer, cyber/IT, corporate, tax/GST, labour, property, IP, RTI), with a live-research protocol that requires checking a specific fact before stating it rather than answering from memory, how to read sections and case judgments, official legal sources, and Tamil Nadu grievance/legal-aid channels (CM Helpline, TNSLSA, 181). [`tamil-language-expert`](plugins/viky-gen-ai-factory/skills/tamil-language-expert) — careful Tamil writing, translating, proofreading, spelling/grammar checklists, and legal/formal Tamil documents. |
+| [`viky-gen-ai-factory`](plugins/viky-gen-ai-factory) | A growing collection of skills: [`indian-law-factory`](plugins/viky-gen-ai-factory/skills/indian-law-factory) — Indian law research across 13 domains (constitutional, criminal, family/succession, consumer, cyber/IT, corporate/commercial, tax/GST, labour, property, IP, environmental, motor vehicles, RTI) with landmark case citations and a live-research protocol that requires checking a specific fact before stating it rather than answering from memory, how to read sections and case judgments, official legal sources, and Tamil Nadu grievance/legal-aid channels (CM Helpline, TNSLSA, 181). [`tamil-language-expert`](plugins/viky-gen-ai-factory/skills/tamil-language-expert) — careful Tamil writing, translating, proofreading, spelling/grammar checklists, and legal/formal Tamil documents. |
 
 ### Install
 
@@ -49,8 +49,9 @@ Beyond manifest/structural checks, `plugins/viky-gen-ai-factory/evals/`
 has real behavioral test cases run via `claude plugin eval` — each one
 targets a specific failure mode the skill needs to avoid (fabricating a
 citation or contact detail, claiming false certainty on a legal/formal
-document), not just "does it answer the question". Latest run
-(2026-09-28, Claude Code 2.1.283): 4/4 cases passed, all graders
+document, getting a domain's law wrong, missing a recent regime-change
+date trap), not just "does it answer the question". Latest run
+(2026-09-30, Claude Code 2.1.283): 9/9 cases passed, all graders
 unanimous across their judge votes. Re-run it yourself from
 `plugins/viky-gen-ai-factory/`:
 ```bash

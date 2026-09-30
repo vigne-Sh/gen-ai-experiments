@@ -1,14 +1,15 @@
 ---
 name: indian-law-factory
-description: Explain Indian law across all major domains - constitutional, criminal, family/matrimonial, consumer, cyber/IT, corporate, tax/GST, labour, property, IP, RTI - how to read sections and case judgments, and point to official sources and Tamil Nadu government support channels. Always researches live rather than answering from memory alone. Use for any Indian law question, notice, FIR, case-file review, contract/business/tax/labour/consumer/cyber-law question, or 'who do I contact' request.
+description: Explain Indian law across all major domains - constitutional, criminal, family/succession, consumer, cyber/IT, corporate/commercial, tax/GST, labour, property, IP, environmental, motor vehicles, RTI - landmark case law, how to read sections and case judgments, and point to official sources and Tamil Nadu government support channels. Always researches live rather than answering from memory alone. Use for any Indian law question, notice, FIR, case-file review, contract/business/tax/labour/consumer/cyber/property/IP-law question, or 'who do I contact' request.
 ---
 
 # Indian Law Factory
 
-See `REFERENCES.md` (same directory) for the specific facts this file
-relies on that have been independently checked against a live source,
-with the date checked — and, just as importantly, what hasn't been.
-Point users there if they ask where a claim comes from. This file is a
+See `REFERENCES.md` (index) and `references/<domain>.md` (same
+directory) for the specific facts this file relies on that have been
+independently checked against a live source, with the date checked —
+and, just as importantly, what hasn't been, domain by domain. Point
+users there if they ask where a claim comes from. This file is a
 research method and a map of where things live, not a stored copy of
 Indian law — no skill file could honestly claim that, and claiming it
 would violate this file's own rule against overclaiming.
@@ -44,21 +45,22 @@ Not exhaustive — Indian law is far larger than any one skill file — but
 this is the map to start from; research the specific current provisions
 live in every case.
 
-| Domain | Governing law(s) now | What it replaced | Notes |
+| Domain | Governing law(s) now | What it replaced | Details |
 |---|---|---|---|
-| Constitutional | Constitution of India, 1950 | — | Fundamental rights (Part III), writ jurisdiction (Art. 32 Supreme Court, Art. 226 High Courts) |
-| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 / CrPC 1973 / Evidence Act 1872 | See `REFERENCES.md` for the specific verified section mappings |
-| Family / matrimonial | See 'Matrimonial and family disputes' below | — | Civil (divorce/custody/maintenance/DV Act) and criminal (BNS 85/86, Dowry Prohibition Act 1961) tracks are separate |
-| Consumer protection | Consumer Protection Act, 2019 (in force July 2020) | Consumer Protection Act, 1986 | Three-tier Commissions (District/State/National) — verify current pecuniary-jurisdiction thresholds live, they're set/revised by notification |
-| Cyber / IT law | Information Technology Act, 2000 (as amended) | — | s.43 unauthorized access, s.66 hacking, s.66C identity theft, s.67 obscene material — verify current punishment figures live, amendments happen |
-| Corporate / company law | Companies Act, 2013 | Companies Act, 1956 (formally repealed 30 Jan 2019) | Phased commencement 2013-2014 |
-| Tax — direct | Income Tax Act, 1961 (as amended annually by Finance Acts) | — | Rates/slabs change yearly — always check the current Finance Act |
-| Tax — indirect | CGST Act 2017 + matching SGST/UTGST Acts (GST since 1 July 2017) | State VAT/sales-tax regimes, central excise, service tax | Rates set by GST Council notification, not the Act text alone |
-| Labour / employment | 4 Labour Codes - Wages (2019), Industrial Relations, Social Security, Occupational Safety Health & Working Conditions (2020) - **in force 21 November 2025** | ~29 separate Acts (Factories Act, Minimum Wages Act, Industrial Disputes Act, etc.) | Get the date right: before 21 Nov 2025, the old 29 laws governed even though the Codes were already enacted |
-| Right to Information | RTI Act, 2005 | — | s.6 request, s.7 timelines (30 days standard / 48 hours for life-liberty / 40 days if third-party consultation needed), s.8 exemptions |
-| Intellectual property | Copyright Act 1957, Patents Act 1970, Trade Marks Act 1999, Designs Act 2000 | — | Not independently verified in this pass - research live |
-| Property | Transfer of Property Act 1882, Registration Act 1908, state-specific stamp/registration rules | — | Not independently verified in this pass - research live |
-| Environmental | Environment Protection Act 1986 and related Acts (Water, Air) | — | Not independently verified in this pass - research live |
+| Constitutional | Constitution of India, 1950 | — | [`references/constitutional-law.md`](references/constitutional-law.md) — fundamental rights, writ jurisdiction, 4 verified landmark cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
+| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings + Arnesh Kumar |
+| Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks + Hindu Succession Act 2005 amendment |
+| Consumer protection | Consumer Protection Act, 2019 (in force July 2020) | Consumer Protection Act, 1986 | [`references/consumer-law.md`](references/consumer-law.md) — Commission structure; verify current pecuniary thresholds live |
+| Cyber / IT law | Information Technology Act, 2000 (as amended) | — | [`references/cyber-law.md`](references/cyber-law.md) — ss.43/66/66C/67 |
+| Corporate / commercial | Companies Act 2013, IBC 2016, Arbitration Act 1996, NI Act 1881 | Companies Act 1956 (repealed 30 Jan 2019) | [`references/corporate-and-commercial-law.md`](references/corporate-and-commercial-law.md) — CIRP timelines, arbitration amendments, s.138 cheque bounce |
+| Tax — direct | Income Tax Act, 1961 (as amended annually by Finance Acts) | — | [`references/tax-law.md`](references/tax-law.md) — rates/slabs change yearly, always check the current Finance Act |
+| Tax — indirect | CGST Act 2017 + matching SGST/UTGST Acts (GST since 1 July 2017) | State VAT/sales-tax regimes, central excise, service tax | [`references/tax-law.md`](references/tax-law.md) — rates set by GST Council notification, not the Act text alone |
+| Labour / employment | 4 Labour Codes - Wages (2019), Industrial Relations, Social Security, OSH (2020) - **in force 21 November 2025** | ~29 separate Acts (Factories Act, Minimum Wages Act, Industrial Disputes Act, etc.) | [`references/labour-law.md`](references/labour-law.md) — the enacted-vs-in-force date trap, get this date right before citing which regime governs |
+| Property | Transfer of Property Act 1882, Registration Act 1908 | — | [`references/property-law.md`](references/property-law.md) — which documents need compulsory registration; RERA not yet researched |
+| Intellectual property | Copyright Act 1957, Patents Act 1970, Trade Marks Act 1999 | — | [`references/ip-law.md`](references/ip-law.md) — terms of protection; Designs Act not yet researched |
+| Environmental | Water Act 1974, Air Act 1981, Environment Protection Act 1986 | — | [`references/environmental-law.md`](references/environmental-law.md) — CPCB/SPCB structure; NGT Act not yet researched (likely matters more in practice) |
+| Motor vehicles / accidents | Motor Vehicles Act, 1988 | — | [`references/motor-vehicles-law.md`](references/motor-vehicles-law.md) — third-party insurance, MACT jurisdiction |
+| Right to Information | RTI Act, 2005 | — | [`references/rti.md`](references/rti.md) — s.6 request, s.7 timelines, s.8 exemptions |
 
 ## Comprehensive answer format
 For a substantive question, structure the answer like this (skip
@@ -128,7 +130,7 @@ Give: parties, court, bench, date, neutral citation. Then: facts, issue, holding
 ## Rules
 - Legal information, not legal advice. Recommend a licensed advocate (or free DLSA aid) for filings and hearings.
 - Never invent a citation, section, phone number, email, or monetary threshold. If unverified, say so and give where to check.
-- A skill covering many domains is still not a substitute for a domain specialist — for anything outside criminal/matrimonial law specifically (tax, corporate, IP, property, environmental), be extra explicit that a specialist advocate/CA should review before the user relies on it for money or a filing.
+- A skill covering many domains is still not a substitute for a domain specialist — being verified doesn't mean being complete: for anything outside criminal/matrimonial law specifically (tax, corporate, IP, property, environmental, motor vehicles), be extra explicit that a specialist advocate/CA should review before the user relies on it for money or a filing.
 - Even-handed: false and genuine complaints both exist. Never help fabricate or destroy evidence, dodge summons, intimidate witnesses, or evade real liability. Lawful defence only: notice replies, bail, mediation, quashing, proper evidence.
 - Safety first: if anyone is in danger, lead with 112 and 181.
 - Escalation ladder: local police/station officer -> SP/Commissioner -> Collector -> CM Helpline -> commission or court. Explain what each step can and cannot do; grievance portals cannot stop a lawful FIR.

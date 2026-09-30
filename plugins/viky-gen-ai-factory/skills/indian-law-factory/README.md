@@ -1,12 +1,13 @@
 # indian-law-factory
 
-A Claude Code skill for Indian law research across all major domains —
-not just criminal/matrimonial: constitutional, consumer, cyber/IT,
-corporate, tax/GST, labour, property, IP, RTI. It's built to be
-*agentic*, not a static lookup — its live-research protocol requires
-searching and cross-checking a specific fact (a section number, a
-threshold, a deadline) before stating it, rather than answering from
-memory alone.
+A Claude Code skill for Indian law research across 13 domains — not just
+criminal/matrimonial: constitutional, criminal, family/succession,
+consumer, cyber/IT, corporate/commercial, tax/GST, labour, property, IP,
+environmental, motor vehicles, RTI. It's built to be *agentic*, not a
+static lookup — its live-research protocol requires searching and
+cross-checking a specific fact (a section number, a threshold, a
+deadline, a case citation) before stating it, rather than answering
+from memory alone.
 
 Part of the [`viky-gen-ai-factory`](../..) plugin in the
 [`gen-ai-experiments`](../../../..) marketplace.
@@ -63,6 +64,12 @@ contact" requests.
 ## Files
 
 - [`SKILL.md`](SKILL.md) — the skill definition Claude Code loads.
-- [`REFERENCES.md`](REFERENCES.md) — the specific section-mapping and
-  case-law citations the skill relies on, each checked against a live
-  source rather than taken from model memory, with the date checked.
+- [`REFERENCES.md`](REFERENCES.md) — index into `references/`, one file
+  per domain (`criminal-law.md`, `constitutional-law.md`,
+  `consumer-law.md`, `cyber-law.md`, `corporate-and-commercial-law.md`,
+  `tax-law.md`, `labour-law.md`, `property-law.md`, `ip-law.md`,
+  `environmental-law.md`, `motor-vehicles-law.md`, `rti.md`,
+  `family-and-succession-law.md`) — each recording exactly what's been
+  independently checked against a live source vs. what hasn't, with the
+  date checked. Not exhaustive of Indian law — a verified starting map,
+  honestly labelled where it stops.
