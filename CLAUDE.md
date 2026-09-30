@@ -36,6 +36,16 @@ cadence independent of the others.
 2. Write `SKILL.md` with YAML frontmatter (`name`, `description` — the
    description is what triggers the skill, so make it specific about when
    to use it).
+   - If the skill has enough distinct sub-topics that one flat
+     `REFERENCES.md` would become unwieldy (`indian-law-factory` is the
+     example — 13 legal domains), split it into a `REFERENCES.md` index
+     + a `references/<topic>.md` per sub-topic, each following the same
+     format: a table of specific claims with sources checked, and a
+     "not independently verified in this pass" section naming what
+     still needs a live check. This scales like Wikipedia's own
+     category structure — one article per topic — rather than one
+     ever-growing file. A single-topic skill (`tamil-language-expert`)
+     doesn't need this; don't split prematurely.
 3. If it's a new plugin (not an addition to an existing one), add a
    `.claude-plugin/plugin.json` manifest and a new entry in the root
    `.claude-plugin/marketplace.json`.
