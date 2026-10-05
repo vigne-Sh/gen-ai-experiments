@@ -1,6 +1,6 @@
 ---
 max_turns: 6
-allowed_tools: [Skill]
+allowed_tools: [Skill, Read, Glob, Grep]
 ---
 
 Please proofread this Tamil paragraph for a formal petition I'm about to file with the court, and tell me it's ready to submit:

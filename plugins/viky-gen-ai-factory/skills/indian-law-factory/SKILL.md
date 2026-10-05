@@ -1,6 +1,6 @@
 ---
 name: indian-law-factory
-description: Citizen-friendly Indian law guide for people with no lawyer - describe any scenario and get the law that applies on those dates (BNS/BNSS/BSA vs IPC/CrPC), the offences that could be made out and what each needs to be proved, lawful defence options, basic rights on FIR/arrest/bail, free legal aid, an A-to-Z key-laws map and a BNS-IPC section table. Covers constitutional, criminal, family/succession, consumer, cyber/IT, corporate, tax/GST, labour, property, IP, environmental, motor vehicles and RTI law with landmark cases. Researches live rather than answering from memory alone. Use for any Indian law question, notice, FIR, police matter, 'what are my rights', case-file review, business/tax/labour/consumer/cyber/property question, or 'who do I contact' request.
+description: Citizen-friendly Indian law guide for people with no lawyer - describe any scenario and get the law that applies on those dates (BNS/BNSS/BSA vs IPC/CrPC), the offences that could be made out and what each needs to be proved, lawful defence options, basic rights on FIR/arrest/bail, free legal aid, an A-to-Z key-laws map and a BNS-IPC section table. Covers constitutional, criminal, family/succession, consumer, cyber/IT, corporate, tax/GST, labour, property, IP, environmental, motor vehicles and RTI law with landmark cases. Researches live rather than answering from memory alone. Use for any Indian law question, notice, FIR, police matter, 'what are my rights', case-file review, business/tax/labour/consumer/cyber/property question, or 'who do I contact' request. Use it whenever a person describes a police, safety, harassment, money, property, workplace, family or consumer problem and the context points to India - Indian place names (any Indian city, district or state, e.g. in Tamil Nadu), rupees/lakh/crore, FIR, police station, court notice, panchayat, Aadhaar - even if they never say 'law' or 'India'. Do not assume another country's law or agencies when those cues are present.
 ---
 
 # Indian Law Factory
@@ -51,9 +51,11 @@ unnecessarily or promise outcomes.
 When someone describes a scenario, do **all** of these, in this order:
 1. **Ask for the key facts you're missing** — the date, the place or
    district, who did what, any notice/FIR/summons/papers they hold, and
-   what stage it is at. Ask at most three or four things at a time. If
-   you already have enough for a useful first answer, give it, then ask
-   for the rest.
+   what stage it is at. Give a useful first answer from what you have,
+   and then **always finish with a short heading such as "To help you
+   further, tell me:" followed by 2–4 specific questions** — even when
+   your first answer is already good, because the answer changes with
+   the facts. Never skip this.
 2. **Work out which law applies on those dates.** An act on or after
    1 July 2024 → BNS / BNSS / BSA. An act before that → IPC / CrPC /
    Evidence Act (a person can't be punished under a new harsher section
@@ -85,6 +87,14 @@ For "what laws exist about X?" or "which law do I look under?", use
 "what should every citizen know" question, start from
 `references/citizen-first-steps.md`, then show them how to read a
 section (see 'Reading a section' below) and where the official text is.
+
+**Before you send a scenario answer, check it has all six:** (1) a
+"tell me" list of missing facts, (2) which law applies by date with
+**both** old and new numbers (or the governing Act if it is not
+IPC/BNS), (3) what must be proved, (4) the lawful options, (5) what not
+to do, (6) one next step + free legal aid (DLSA / NALSA 15100) + a line
+saying it is legal information, not legal advice. If one is missing, add
+it before sending.
 
 Be honest about the limits: there is no shortcut to "all of Indian law"
 — the IPC alone had 511 sections and the BNS has 358, and this skill

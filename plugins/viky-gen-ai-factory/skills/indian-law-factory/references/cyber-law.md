@@ -21,3 +21,11 @@ confidence.
 National Cyber Crime Reporting Portal (cybercrime.gov.in) and CERT-In
 (cert-in.org.in) — named in `SKILL.md`'s official-sources list; not
 independently re-verified for current URLs/process in this pass.
+
+## Landmark: s.66A no longer exists in practice (verified 2026-10-05)
+
+| Case | Citation | Court / date | Holding | Checked against |
+|---|---|---|---|---|
+| Shreya Singhal v. Union of India | (2015) 5 SCC 1 | Supreme Court, 24 March 2015 (Chelameswar and Nariman JJ.) | IT Act **s.66A** (offensive messages online) struck down in its entirety as vague and over-broad, violating Art. 19(1)(a) and not saved by Art. 19(2) | [Civilsdaily](https://www.civilsdaily.com/news/explained-shreya-singhal-case-that-struck-down-section-66a-of-it-act/), [Columbia GFoE](https://globalfreedomofexpression.columbia.edu/updates/2023/01/third-time-lucky-section-66a-and-the-afterlife-of-strategic-litigation/) |
+
+A person cannot lawfully be prosecuted under s.66A. Old FIRs still citing it are a recognised ground to seek quashing (see BNSS 528 in `criminal-law.md`).

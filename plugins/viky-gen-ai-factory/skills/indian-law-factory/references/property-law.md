@@ -15,3 +15,9 @@ state stamp Act/notification), gift-deed-specific registration
 requirements beyond the general rule above, and the Real Estate
 (Regulation and Development) Act 2016 (RERA) — a major, commonly
 relevant property-transaction law not yet researched for this skill.
+
+## Landmark: a sale agreement, GPA or will is not a sale (verified 2026-10-05)
+
+| Case | Citation | Court / date | Holding | Checked against |
+|---|---|---|---|---|
+| Suraj Lamp & Industries Pvt. Ltd. v. State of Haryana | (2012) 1 SCC 656 | Supreme Court, decided 11 October 2011 | Immovable property worth more than ₹100 can be sold only by a **registered deed of conveyance** (TPA s.54, Registration Act s.17); a sale agreement, general power of attorney or will, alone or together, does not transfer ownership | [LIJDLR](https://lijdlr.com/2026/04/29/case-law-analysis-suraj-lamp-industries-pvt-ltd-v-state-of-haryana-2012-1-scc-656/), [Delhi Law Academy](https://www.delhilawacademy.com/consti-suraj-lamp-case/) |

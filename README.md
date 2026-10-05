@@ -45,29 +45,41 @@ component inventory (`claude plugin details viky-gen-ai-factory`).
 
 ### Eval suite
 
-`plugins/viky-gen-ai-factory/evals/` has 11 behavioral test cases run via
-`claude plugin eval` — each targets a specific failure mode (fabricating
-a citation or contact detail, claiming false certainty, using the wrong
-code for the date, missing the labour-code enacted-vs-in-force trap),
-graded by an LLM judge.
+`plugins/viky-gen-ai-factory/evals/` has 25 behavioral test cases run via
+`claude plugin eval`, graded by an LLM judge. Latest full run
+(2026-10-05, Claude Code 2.1.283): **25/25 passed**. What those numbers do
+and do not show, reported without spin:
 
-Latest results (2026-10-05, Claude Code 2.1.283), reported without spin:
-- 11 cases; 10 passed on the first full run. The one miss
-  (`indian-law-ip-patent-term`) was the judge being inconsistent about an
-  optional point in my own grading rubric — I clarified the rubric
-  (required vs nice-to-have) and it then passed 3/3. `indian-law-no-fabrication`
-  is flaky at about 2 of 3.
-- **A with/without-plugin ablation scored identically on every case.**
-  These probes are ones the base model already handles, so they show the
-  skill does no harm and keeps answers hedged and plain — they do **not**
-  prove the skill adds capability. In several runs the skill's reference
-  files could not be read inside the eval sandbox at all. Proving uplift
-  needs cases built around facts a base model tends to get wrong
-  (post-cutoff changes, unusual section numbers); that is still to do.
+- **Factual accuracy: no measurable advantage over the base model.** On 19
+  fact-and-behaviour cases (including obscure ones such as BNS 137 vs 139,
+  BNSS 479's one-third rule, hit-and-run BNS 106(2), mob-lynching 103(2)),
+  the plugin scored 19/19 and the plain model 18/19 — and that single
+  difference is a case that flips between runs anyway. This model already
+  knows these facts; the skill's references mainly make the answers
+  checkable and consistent.
+- **Procedure adherence: a clear, measured effect.** For the six-step citizen
+  procedure (ask missing facts → law by date with old+new numbers → what
+  must be proved → lawful options → what not to do → next step + free legal
+  aid + not-legal-advice), the plain model passed **0 of 8** runs. The plugin
+  passed 5 of 8 at first; I tightened step 1 and it passed 12 of 12 on those
+  same four scenarios — so that figure is partly tuned to them. On two
+  scenarios I had *not* tuned against, the plugin passed 5 of 5 runs and the
+  plain model 0 of 5. The rubric is the skill's own spec, so this proves the
+  skill changes behaviour as intended, not that the behaviour is the best
+  possible.
+- **Known limit — it needs an India cue to fire.** A prompt that says only
+  "we live in Salem" (no state, rupees, FIR, or police-station cue) did not
+  trigger the skill in either of two runs; the model assumed the US. With
+  "Salem, Tamil Nadu" it fired every time. Users can always invoke it
+  directly with `/viky-gen-ai-factory:indian-law-factory`.
+- Two rubric clarifications were made after judge flakiness (required vs
+  nice-to-have items); `indian-law-no-fabrication` still flips between runs
+  (about 2 of 3).
 
 Re-run it yourself from `plugins/viky-gen-ai-factory/`:
 ```bash
 claude plugin eval . --trust-plugin --runs 1 --no-publish
+claude plugin eval . --trust-plugin --runs 2 --ablation with-without   # shows the with/without gap
 ```
 
 ## Disclaimer

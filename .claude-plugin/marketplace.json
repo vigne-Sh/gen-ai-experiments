@@ -12,7 +12,7 @@
       "name": "viky-gen-ai-factory",
       "source": "./plugins/viky-gen-ai-factory",
       "description": "A growing collection of Claude skills: a citizen-friendly Indian law guide for people with no lawyer (describe any scenario - which law applies on those dates, BNS vs IPC, offences and what each needs to be proved, lawful defence options, rights on FIR/arrest/bail, free legal aid, an A-to-Z key-laws map, 13 legal domains with landmark cases, live-research protocol), and Tamil language help (careful writing, translation, proofreading, spelling/grammar checklists, and legal Tamil documents).",
-      "version": "1.6.0",
+      "version": "1.7.0",
       "category": "reference",
       "keywords": [
         "india",

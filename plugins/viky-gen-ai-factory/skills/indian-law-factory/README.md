@@ -33,9 +33,10 @@ Ready-made references for this, all in `references/`:
   law-abiding habits;
 - `bns-ipc-key-offences.md` — ~70 common offences IPC ↔ BNS with what
   must be shown, plus the CrPC ↔ BNSS procedure map;
+- Landmark case citations (19, each checked in a live search) sit in the domain files — e.g. *Lalita Kumari* on FIRs, *Joginder Kumar* and *D.K. Basu* on arrest, *Satender Kumar Antil* on bail, *Bhajan Lal* and *Gian Singh* on quashing, *Shreya Singhal* on s.66A;
 - `a-to-z-key-laws.md` — alphabetical "which law deals with what" map.
 
-**What it is not:** it does not contain all of Indian law. The IPC alone
+**What it is not:** it does not contain all of Indian law, and it needs an India cue (an Indian place, rupees, FIR, a police station) or an explicit `/viky-gen-ai-factory:indian-law-factory` to start. The IPC alone
 had 511 sections and the BNS has 358; this holds the common ones plus a
 method for looking up the rest live. It never claims otherwise.
 

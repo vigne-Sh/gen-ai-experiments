@@ -1,6 +1,6 @@
 # BNS ↔ IPC — the offences ordinary people actually meet
 
-**Last checked:** 2026-10-05
+**Last checked:** 2026-10-05 (kidnapping row corrected and ~12 sections added the same day)
 
 Read this first:
 - **IPC (1860) had 511 sections; BNS (2023) has 358.** BNS has applied to offences committed **on or after 1 July 2024**. An offence committed **before** that date is still dealt with under the IPC (and CrPC procedure rules as saved by BNSS) — you cannot be punished under a harsher new section for an old act (Article 20(1) of the Constitution). Always ask "on what date did it happen?" first.
@@ -24,7 +24,11 @@ Read this first:
 | Rash/negligent acts endangering life | 336–338 | 125 | Rash or negligent act endangering life or personal safety / causing hurt |
 | Wrongful restraint | 339, 341 | 126 | Voluntarily obstructing someone from going where they have a right to go |
 | Wrongful confinement | 340, 342 | 127 | Restraining someone so they can't go beyond certain limits |
-| Kidnapping (punishment) | 363 | 139 | Taking or enticing away a minor/person of unsound mind from lawful guardianship (definitions sit in the neighbouring sections — not verified here) |
+| Kidnapping (meaning / punishment) | 359–361 / 363 | 137 (punishment in 137(2)) | Taking or enticing a minor, or a person of unsound mind, out of lawful guardianship; or taking a person out of India without consent |
+| Abduction | 362 | 138 | Forcing or deceiving a person to go from a place |
+| Kidnapping or maiming a child for begging | 363A | 139 | Kidnapping a child, or taking custody of one, to use for begging |
+| Kidnapping/abducting to murder or for ransom | 364–365, 367 | 140 | Kidnapping or abducting in order to murder, or to demand ransom |
+| Trafficking of a person | 370 | 143 | Recruiting, transporting or harbouring a person by threat, force or deception for exploitation |
 
 ## Offences against women (and related)
 
@@ -34,10 +38,14 @@ Read this first:
 | Sexual harassment | 354A | 75 | Unwelcome physical contact/advances, demand for sexual favours, showing pornography against will, or sexually coloured remarks |
 | Voyeurism | 354C | 77 | Watching or capturing a woman in a private act without consent |
 | Stalking | 354D | 78 | Following/contacting a woman repeatedly despite clear disinterest, or monitoring her online use |
+| Assault with intent to disrobe a woman | 354B | 76 | Assault or criminal force to a woman, or abetting it, intending to disrobe her or compel her to be naked |
 | Word/gesture insulting a woman's modesty | 509 | 79 | A word, sound, gesture or object intended to insult her modesty or intrude on her privacy |
 | Rape (definition / punishment) | 375 / 376 | 63 / 64 | Sexual acts in the circumstances the section lists — most importantly without consent |
 | Dowry death | 304B | 80 | Woman's death within 7 years of marriage in unnatural circumstances, and shown that soon before death she faced cruelty/harassment for dowry |
 | Cruelty by husband or his relatives | 498A | 85 (offence) / 86 (meaning of cruelty) | Wilful conduct likely to drive her to suicide/grave injury, or harassment to force an unlawful demand for property/money |
+| Gang rape | 376D (376DA, 376DB for young victims) | 70 | Rape by a group of persons acting together; BNS 70(2) raises the age threshold for the special provisions from 16 to 18 |
+| Enticing or detaining a married woman | 498 | 84 | Taking away or detaining a married woman with criminal intent that she have illicit intercourse with someone |
+| Causing miscarriage without the woman's consent | 313 | 89 | Causing a woman to miscarry without her consent |
 | Bigamy | 494 | 82 | Marrying again while the first spouse is alive and the second marriage is void for that reason |
 
 ## Property and money offences
@@ -78,6 +86,8 @@ Read this first:
 |---|---|---|---|
 | Common intention | 34 | 3(5) | An offence done by several people in furtherance of a shared intention — each is liable as if done by them alone |
 | Criminal conspiracy | 120B | 61 | An agreement between two or more people to do (or cause) an illegal act |
+| Abetment — punishment when the abetted act is done | 109 | 49 | Helping, instigating or conspiring so that the offence is actually committed |
+| Attempt | 511 | 62 | Doing an act towards committing an offence punishable with imprisonment, but not completing it |
 
 ## Obstructing the law, lying to the authorities
 
@@ -90,9 +100,25 @@ Read this first:
 | False charge with intent to injure | 211 | 248 | Knowingly instituting or falsely charging someone with an offence with no lawful ground |
 | False information to a public servant | 182 | 217 | Knowingly giving false information intending the public servant to use their power to injure someone |
 
-## Not yet verified in this pass (look up live — don't guess)
+## New in the BNS, and what was dropped (checked in live search)
 
-IPC 109 (abetment), 511 (attempt), 313 (miscarriage), 354B, 359–362 (kidnapping/abduction definitions), 366, 370 (trafficking), 376D (gang rape), 498 — plus every section not named above. The BNS also **added** offences with no IPC equivalent (for example organised crime, mob lynching, snatching) — verify them live rather than assuming an IPC number exists.
+**New offences with no IPC equivalent (verify the text and punishment live before relying):**
+- **Organised crime** — BNS 111; **petty organised crime** — BNS 112 (syndicated unlawful activity such as kidnapping, extortion, land-grabbing, contract killing, economic and cyber crime).
+- **Terrorist act** — BNS 113 (earlier handled mainly under special laws such as UAPA, which continues).
+- **Mob lynching** — BNS 103(2): murder (or grievous hurt) by five or more persons acting together on a ground such as race, caste, sex, language or personal belief; reported punishment for murder is life imprisonment or death.
+- **Hit and run** — BNS 106(2): death by rash/negligent driving where the driver flees without reporting to the police or a magistrate — reported up to 10 years and fine; if the driver reports promptly, BNS 106(1) applies (up to 5 years).
+
+**Dropped or changed:**
+- IPC 377 (unnatural offences) — omitted (read down by the Supreme Court earlier).
+- IPC 497 (adultery) — omitted (struck down by the Supreme Court).
+- IPC 309 (attempt to commit suicide) — omitted, except a narrow revival in BNS 226 for suicide attempts intended to compel or restrain a public servant.
+- IPC 124A (sedition) — replaced by BNS 152 (a recast offence, not a renumbering).
+
+## Still not verified in this pass (look up live — don't guess)
+
+IPC 366 (kidnapping a woman to compel marriage) and its BNS number; BNS 304 (snatching) and BNS 69 (sexual intercourse by deceitful means/false promise of marriage) — I believe these numbers are right but did not confirm them; and every section not named in this file.
+
+> **Correction note.** An earlier version of this file gave kidnapping punishment (IPC 363) as BNS 139. That was wrong: IPC 363 maps to BNS 137(2), and BNS 139 is the *begging* offence (IPC 363A). Secondary-source summaries can be wrong on exact numbers — treat every row here as "checked against secondary sources, confirm on India Code".
 
 ## Procedure counterparts (CrPC → BNSS), also verified
 

@@ -1,7 +1,7 @@
 {
   "name": "viky-gen-ai-factory",
   "description": "Viky's gen-AI skills factory: a growing collection of Claude skills - a citizen-friendly Indian law guide (describe a scenario: law that applies, offences and what must be proved, lawful options, rights, free legal aid; BNS-IPC table, A-to-Z key laws, 13 legal domains, live-research protocol) and Tamil language help (writing, translating, proofreading, grammar).",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "author": {
     "name": "vigne-Sh",
     "url": "https://github.com/vigne-Sh"
