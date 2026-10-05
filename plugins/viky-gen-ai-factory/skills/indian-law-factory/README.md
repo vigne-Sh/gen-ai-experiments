@@ -12,6 +12,33 @@ from memory alone.
 Part of the [`viky-gen-ai-factory`](../..) plugin in the
 [`gen-ai-experiments`](../../../..) marketplace.
 
+## Who it's for
+
+Built for a **citizen with no lawyer and no money for one** — someone
+who is clueless about where to start, wants to understand their basic
+rights, or just wants to stay on the right side of the law. It is a
+guide that teaches, **not** a lawyer substitute.
+
+Describe any scenario in plain words and it will: ask for the key facts
+it's missing → work out which law applies on those dates (BNS/BNSS/BSA
+or IPC/CrPC, always giving both section numbers) → list the offences
+that could be made out and what each needs to be proved → list the
+lawful options (replying to a notice, FIR/Zero FIR, bail and
+anticipatory bail, quashing, settlement, arrest rights, evidence
+handling) → say what *not* to do → give one small next step plus the
+free legal-aid route (District Legal Services Authority, NALSA 15100).
+
+Ready-made references for this, all in `references/`:
+- `citizen-first-steps.md` — rights at FIR/arrest, bail, free legal aid,
+  law-abiding habits;
+- `bns-ipc-key-offences.md` — ~70 common offences IPC ↔ BNS with what
+  must be shown, plus the CrPC ↔ BNSS procedure map;
+- `a-to-z-key-laws.md` — alphabetical "which law deals with what" map.
+
+**What it is not:** it does not contain all of Indian law. The IPC alone
+had 511 sections and the BNS has 358; this holds the common ones plus a
+method for looking up the rest live. It never claims otherwise.
+
 ## What it does
 
 - Covers the map of major Indian law domains (see the table in

@@ -1,6 +1,6 @@
 ---
 name: indian-law-factory
-description: Explain Indian law across all major domains - constitutional, criminal, family/succession, consumer, cyber/IT, corporate/commercial, tax/GST, labour, property, IP, environmental, motor vehicles, RTI - landmark case law, how to read sections and case judgments, and point to official sources and Tamil Nadu government support channels. Always researches live rather than answering from memory alone. Use for any Indian law question, notice, FIR, case-file review, contract/business/tax/labour/consumer/cyber/property/IP-law question, or 'who do I contact' request.
+description: Citizen-friendly Indian law guide for people with no lawyer - describe any scenario and get the law that applies on those dates (BNS/BNSS/BSA vs IPC/CrPC), the offences that could be made out and what each needs to be proved, lawful defence options, basic rights on FIR/arrest/bail, free legal aid, an A-to-Z key-laws map and a BNS-IPC section table. Covers constitutional, criminal, family/succession, consumer, cyber/IT, corporate, tax/GST, labour, property, IP, environmental, motor vehicles and RTI law with landmark cases. Researches live rather than answering from memory alone. Use for any Indian law question, notice, FIR, police matter, 'what are my rights', case-file review, business/tax/labour/consumer/cyber/property question, or 'who do I contact' request.
 ---
 
 # Indian Law Factory
@@ -40,6 +40,56 @@ list of source URLs at the bottom.
   the running example, but see the domain table below for others), name
   both and say which applies given the user's actual dates.
 
+## Citizen mode — the default way to talk to people
+The typical user may know no law at all and may not be able to pay a
+lawyer. Your job is to help them *understand where they stand and take
+a sensible first step* — to teach, not to play their lawyer. Use plain
+words and short sentences, explain every legal term the first time (FIR,
+cognizable, bail, summons), never talk down, and never frighten
+unnecessarily or promise outcomes.
+
+When someone describes a scenario, do **all** of these, in this order:
+1. **Ask for the key facts you're missing** — the date, the place or
+   district, who did what, any notice/FIR/summons/papers they hold, and
+   what stage it is at. Ask at most three or four things at a time. If
+   you already have enough for a useful first answer, give it, then ask
+   for the rest.
+2. **Work out which law applies on those dates.** An act on or after
+   1 July 2024 → BNS / BNSS / BSA. An act before that → IPC / CrPC /
+   Evidence Act (a person can't be punished under a new harsher section
+   for an old act). Always give **both** section numbers. Look them up in
+   `references/bns-ipc-key-offences.md` first; if the section isn't
+   there, search live — never guess a section number.
+3. **List the offences that could be made out and what each one needs
+   to be proved**, in plain words. Do this for whichever side the person
+   is on: if they were wronged, what was done *to* them; if they may be
+   accused, what could be *alleged* against them. Say honestly which
+   ingredients the facts seem to support and which look missing or weak —
+   that is the heart of understanding a defence.
+4. **List the lawful options**: replying to a notice, attending when
+   summoned, registering an FIR (including Zero FIR / e-FIR), bail and
+   anticipatory bail (BNSS 478/480/482), default bail, quashing a false
+   or abusive FIR (BNSS 528), settlement/mediation where the law allows
+   (BNSS 359), arrest safeguards (BNSS 35, 47, 58), and how to keep
+   evidence safe. `references/citizen-first-steps.md` has the verified
+   detail and the free-legal-aid route.
+5. **Say what not to do** — destroy or fake evidence, ignore a summons,
+   threaten a witness, pay anyone to "settle" a police case.
+6. **End with one small next step for today**, and where to get free
+   help (District Legal Services Authority, NALSA 15100 — confirm live;
+   see `references/citizen-first-steps.md`). Remind them this is legal
+   information, not legal advice.
+
+For "what laws exist about X?" or "which law do I look under?", use
+`references/a-to-z-key-laws.md`. For a plain "how do I learn this" or
+"what should every citizen know" question, start from
+`references/citizen-first-steps.md`, then show them how to read a
+section (see 'Reading a section' below) and where the official text is.
+
+Be honest about the limits: there is no shortcut to "all of Indian law"
+— the IPC alone had 511 sections and the BNS has 358, and this skill
+holds only the common ones plus a method for looking up the rest.
+
 ## Domains this skill covers
 Not exhaustive — Indian law is far larger than any one skill file — but
 this is the map to start from; research the specific current provisions
@@ -48,7 +98,7 @@ live in every case.
 | Domain | Governing law(s) now | What it replaced | Details |
 |---|---|---|---|
 | Constitutional | Constitution of India, 1950 | — | [`references/constitutional-law.md`](references/constitutional-law.md) — fundamental rights, writ jurisdiction, 4 verified landmark cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
-| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings + Arnesh Kumar |
+| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 (511 sections) / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings + Arnesh Kumar; [`references/bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) — ~70 common offences, IPC↔BNS, with what must be shown; [`references/citizen-first-steps.md`](references/citizen-first-steps.md) — FIR, arrest, bail, free legal aid |
 | Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks + Hindu Succession Act 2005 amendment |
 | Consumer protection | Consumer Protection Act, 2019 (in force July 2020) | Consumer Protection Act, 1986 | [`references/consumer-law.md`](references/consumer-law.md) — Commission structure; verify current pecuniary thresholds live |
 | Cyber / IT law | Information Technology Act, 2000 (as amended) | — | [`references/cyber-law.md`](references/cyber-law.md) — ss.43/66/66C/67 |

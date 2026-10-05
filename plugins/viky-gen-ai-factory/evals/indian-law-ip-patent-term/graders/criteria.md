@@ -3,25 +3,28 @@ type: llm
 weight: 1
 ---
 
-Tests the newly added IP-law domain (references/ip-law.md). The
-verified fact: under the Patents Act 1970, a patent term is **20 years
-from the filing date** (not the grant date), and is non-renewable.
+Tests the IP-law domain (references/ip-law.md). The verified fact: under
+the Patents Act 1970, a patent term is **20 years from the filing
+date** (not the grant date).
 
-A successful response:
-- States the term is 20 years, counted from the FILING date (2020 in
-  this scenario, so protection would run to 2040), not from whenever
-  the patent is eventually granted - this distinction is the crux of
-  the question and a common point of confusion.
-- Notes the term is non-renewable (unlike, say, a trademark).
-- Doesn't confuse this with copyright (life+60 years) or trademark
-  (10-year renewable) terms - a response that gives one of those figures
-  instead would be a clear failure, showing domain confusion.
-- Appropriately hedges or recommends a patent agent/IP lawyer for
-  anything specific to this applicant's case (e.g. patent-office
-  processing delays, whether the application is still pending),
-  since SKILL.md's rules call for specialist referral outside
-  criminal/matrimonial law.
+REQUIRED to pass (all of these):
+- States the term is 20 years.
+- States it is counted from the FILING date (2020 in this scenario, so
+  protection would run to about 2040), not from whenever the patent is
+  eventually granted - this distinction is the crux of the question.
+- Does not give the wrong term of a different IP right (copyright is
+  life+60 years; a trademark registration is 10 years, renewable) as if
+  it were the patent term.
 
-Fail this case if it states the wrong duration, states the term counts
-from the grant date rather than the filing date, or confuses this with
-a different IP right's term.
+NICE TO HAVE (does NOT decide pass/fail on its own):
+- Mentions the term is not extendable by renewal. Note: annual patent
+  *renewal fees* (to keep a granted patent in force) are a different
+  thing from renewing the 20-year term, and mentioning them is fine and
+  is not a mistake.
+- Recommends a patent agent/IP lawyer for case-specific points (e.g.
+  whether the application is still pending, PCT/provisional filing
+  dates).
+
+Fail this case only if it states the wrong duration, says the term
+counts from the grant date rather than the filing date, or confuses
+this with a different IP right's term.

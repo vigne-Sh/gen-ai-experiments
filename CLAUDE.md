@@ -68,6 +68,13 @@ cadence independent of the others.
    modes is unverified in practice, not just untested in principle —
    don't treat "it compiles and the manifest validates" as sufficient on
    its own.
+   Also run once with `--ablation with-without` (the default when a
+   plugin resolves): if the with-plugin and without-plugin scores are
+   identical, the case only proves the skill does no harm, not that it
+   helps. Prefer cases built on facts a base model gets wrong (recent
+   regime changes, unusual section numbers). Keep rubrics explicit about
+   what is *required* versus *nice to have*, or the judge will flip on
+   the optional points.
 6. Update the plugin table in `README.md` and `AGENTS.md`.
 
 ## Commit identity

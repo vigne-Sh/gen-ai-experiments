@@ -8,12 +8,15 @@ against what — and, just as importantly, what within that domain
 *hasn't* been checked yet. Point users here if they ask where a claim
 comes from, or which domain file to read for more depth.
 
-**Last full pass:** 2026-09-30
+**Last full pass:** 2026-09-30 (citizen files `citizen-first-steps.md`, `bns-ipc-key-offences.md`, `a-to-z-key-laws.md` added 2026-10-05)
 
 ## Domain files (`references/`)
 
 | File | Domain |
 |---|---|
+| [`citizen-first-steps.md`](references/citizen-first-steps.md) | **Start here for a person with no lawyer** — FIR/Zero FIR, rights on arrest, bail and settlement, free legal aid, law-abiding habits |
+| [`bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) | ~70 common offences, IPC ↔ BNS (511 vs 358 sections), what must be shown, plus CrPC ↔ BNSS procedure map |
+| [`a-to-z-key-laws.md`](references/a-to-z-key-laws.md) | Alphabetical map of ~45 key central Acts — which law deals with what |
 | [`constitutional-law.md`](references/constitutional-law.md) | Constitution, fundamental rights, landmark SC cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
 | [`criminal-law.md`](references/criminal-law.md) | BNS/BNSS/BSA ↔ IPC/CrPC/Evidence Act mappings, Arnesh Kumar |
 | [`family-and-succession-law.md`](references/family-and-succession-law.md) | Matrimonial tracks, Hindu Succession Act 2005 amendment |
