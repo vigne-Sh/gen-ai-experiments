@@ -139,7 +139,7 @@ live in every case.
 |---|---|---|---|
 | Constitutional | Constitution of India, 1950 | — | [`references/constitutional-law.md`](references/constitutional-law.md) — fundamental rights, writ jurisdiction, verified landmark cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka, Navtej Johar, Joseph Shine, Shayara Bano) |
 | Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 (511 sections) / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings, arrest/bail/quashing cases, POCSO duty to report; [`references/bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) — ~70 common offences, IPC↔BNS, with what must be shown; [`references/citizen-first-steps.md`](references/citizen-first-steps.md) — FIR, arrest, bail, free legal aid |
-| Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks, Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
+| Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks, maintenance and alimony (BNSS 144 / CrPC 125, Rajnesh v. Neha, Article 142 divorce), Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
 | Consumer protection | Consumer Protection Act, 2019 (in force July 2020) | Consumer Protection Act, 1986 | [`references/consumer-law.md`](references/consumer-law.md) — Commission structure; verify current pecuniary thresholds live |
 | Cyber / IT law | Information Technology Act, 2000 (as amended) | — | [`references/cyber-law.md`](references/cyber-law.md) — ss.43/66/66C/66D/66E/67/67A, Shreya Singhal, 1930 and cybercrime.gov.in |
 | Corporate / commercial | Companies Act 2013, IBC 2016, Arbitration Act 1996, NI Act 1881 | Companies Act 1956 (repealed 30 Jan 2019) | [`references/corporate-and-commercial-law.md`](references/corporate-and-commercial-law.md) — CIRP timelines, arbitration amendments, s.138 cheque bounce |
@@ -194,6 +194,7 @@ Give: parties, court, bench, date, neutral citation. Then: facts, issue, holding
 
 ## Matrimonial and family disputes
 - Separate the tracks: divorce or custody (civil), maintenance, Domestic Violence Act (civil), and criminal complaints (BNS 85/86, Dowry Prohibition Act).
+- Maintenance: both spouses must file an affidavit of assets and liabilities (*Rajnesh v. Neha*). Cases shared on social media as "favourable to the husband" (or wife) usually turn on their own facts — check what was actually decided in `references/family-and-succession-law.md` before relying on one.
 - A closed CSR does not bar a later FIR. Explain anticipatory bail (BNSS 482), quashing (BNSS 528), and arrest safeguards (BNSS 35).
 - Evidence: keep originals, BSA s.63 certificate for electronic records, witness lists, bank records.
 - Until a decree, the spouse is still legally the spouse; avoid 'ex-wife' or 'ex-husband' in filings.

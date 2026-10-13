@@ -34,6 +34,65 @@ Checked against: [Act text, National Commission for Women](https://cdn.ncw.gov.i
 Some states amended these sections — check the state version. Checked
 against: [iPleaders](https://blog.ipleaders.in/laws-prohibiting-dowry-india/), [LegitQuest](https://www.legitquest.com/act/dowry-prohibition-act-1961/2540), [India Code PDF](https://indiacode.nic.in/bitstream/123456789/16243/1/196128.pdf).
 
+## Maintenance and alimony (checked 2026-10-13)
+
+**Where maintenance can be claimed** — the routes run side by side, and a
+court adjusts for what is already being paid under another:
+- **BNSS s.144** (formerly CrPC s.125, for cases filed from 1 July 2024)
+  — wife, children and parents who cannot maintain themselves, against a
+  person with sufficient means who neglects them; interim maintenance
+  while the case runs. Checked: [iPleaders](https://blog.ipleaders.in/maintenance-under-section-125-crpc-section-144-bnss/),
+  [B&B Legal](https://bnblegal.com/article/demystifying-maintenance-rights-in-the-bharatiya-nagarik-suraksha-sanhita-2023/).
+  Whether the BNSS widened the right for adult children is reported
+  differently — check the text.
+- **Hindu Marriage Act s.24** (maintenance and costs during the case)
+  and **s.25** (permanent alimony) — either spouse can claim
+  (general knowledge; read the current text).
+- **Domestic Violence Act s.20** (monetary relief) — see above.
+
+**The rule every court now follows** — *Rajnesh v. Neha*, (2021) 2 SCC
+324, Supreme Court, 4 November 2020: in all maintenance cases, **both**
+spouses must file an **Affidavit of Disclosure of Assets and
+Liabilities** at the same time; the court weighs status, reasonable
+needs, income and earning capacity of both, and liabilities; if the
+other side doesn't file, the court may decide on the applicant's
+affidavit alone. Checked: [S.S. Rana](https://ssrana.in/articles/supreme-court-guidelines-maintenance/),
+[Mondaq](https://www.mondaq.com/supreme-court-clarifies-the-law-on-maintenance/1034570),
+[later SC judgment citing it](https://api.sci.gov.in/supremecourt/2023/38285/38285_2023_11_1505_48074_Judgement_06-Nov-2023.pdf).
+
+### Cases often shared online — what they actually decided
+
+These circulate as "judgments favourable to the husband". All five are
+real, but read them for what they are: three are **High Court** rulings
+(binding mainly in that state) that turned on their own facts, and none
+of them says a qualified wife can never get maintenance.
+
+| Case | Court / date | What it decided | Caution |
+|---|---|---|---|
+| *Megha Khetrapal v. Rajat Kapoor* | Delhi High Court (Chandra Dhari Singh J.), 19 March 2025 | Upheld refusal of **interim** maintenance under CrPC s.125 to a highly qualified wife with past earnings (Master's degree, earlier worked at KPMG Dubai); maintenance is for genuine need, not to encourage idleness | Court stressed the "peculiar facts"; a report about WhatsApp chats has only one source. [Shades of Knife](https://www.shadesofknife.in/megha-khetrapal-vs-rajat-kapoor-on-19-mar-2025/), [LawyerENews](https://lawyerenews.com/legal_detail/highly-qualified-wife-cannot-claim-maintenance-while-choosing-to-remain-unemployed-delhi-high-court) |
+| *Mamta Jaiswal v. Rajesh Jaiswal* | Madhya Pradesh High Court, 24 March 2000, 2000 (3) MPLJ 100 | Under **HMA s.24**: maintenance is for a spouse who cannot support themselves despite sincere efforts; a qualified spouse must show they tried to find work | **Sources disagree on the final order** (one says ₹800 a month upheld, another says refused) — cite only the principle. [CaseMine](https://www.casemine.com/commentary/in/judicial-commentary:-maintenance-eligibility-under-section-24-of-the-hindu-marriage-act/view), [JusCorpus](https://www.juscorpus.com/section-24-of-the-hindu-marriage-act-1955-a-detailed-analysis-of-judicial-wisdom-and-social-justice/) |
+| *Sanjay Bhardwaj v. State* | Delhi High Court, 27 August 2010 (Crl. M.C. 491/2009) | Set aside ₹5,000/month interim maintenance under the DV Act: no prima facie proof the husband was employed in India (his passport had been seized); past earnings abroad were not enough. The DV Act creates no **additional** right to maintenance beyond existing laws | Interim stage, single judge. [Shonee Kapoor](https://www.shoneekapoor.com/judgements/sanjay-bhardwaj-ors-vs-the-state-anr), [LawWeb](https://www.lawweb.in/2019/12/whether-unemployed-husband-is-bound-to.html) |
+| *Kiran Jyot Maini v. Anish Pramod Patel* | Supreme Court, 15 July 2024, 2024 INSC 530 | Dissolved the marriage under **Article 142** as irretrievably broken down (less than a year together, nine years apart) | **The husband was ordered to pay ₹2 crore permanent alimony** — not a "husband wins" case. [SC Digital Reports](https://digiscr.sci.gov.in/admin/judgement_file/judgement_pdf/2024/volume%207/Part%20IV/2024_7_942-956_1728105090.pdf), [LawFoyer](https://lawfoyer.in/kiran-jyot-maini-vs-anish-pramod-patel/) |
+| *Deb Narayan Halder v. Anushree Halder* | Supreme Court, 26 August 2003, (2003) 11 SCC 303, AIR 2003 SC 3174 | Set aside the Calcutta High Court's maintenance award and restored the Magistrate's refusal: the evidence did not prove cruelty, and the wife had left on her own | Turned on the evidence in that case. [Indian Kanoon](https://future.indiankanoon.org/doc/1017614), [LegalAuthority](https://www.legalauthority.in/judgement/deb-narayan-halder-vs-anushree-halder-19661) |
+
+**Article 142 divorce — the leading case:** *Shilpa Sailesh v. Varun
+Sreenivasan*, Supreme Court Constitution Bench, 1 May 2023 — the Supreme
+Court may dissolve a marriage that has irretrievably broken down under
+Article 142(1), and may waive the six-month wait for mutual-consent
+divorce (HMA s.13-B(2)) on the conditions from *Amardeep Singh*; it
+also balances alimony and children's rights when doing so. Only the
+Supreme Court has this power — a family court cannot grant divorce on
+irretrievable breakdown alone. Checked: [SC judgment PDF](https://api.sci.gov.in/supremecourt/2014/26304/26304_2014_2_1501_44203_Judgement_01-May-2023.pdf),
+[Verdictum](https://www.verdictum.in/court-updates/supreme-court/in-exercise-of-power-under-article-142-court-has-discretion-to-dissolve-marriage-on-ground-of-irretrievable-breakdown-1474479),
+[SCC Online](https://www.scconline.com/blog/?p=291035).
+
+**How to use these for a citizen:** explain both sides — the person
+asking for maintenance must show need and (if able to work) real effort
+to earn; the person paying must honestly disclose income. Courts look at
+both affidavits, not at slogans. Neither side should hide income, quit a
+job to avoid paying, or refuse to file the affidavit — courts draw
+adverse inferences.
+
 ## Succession — Hindu Succession Act, 1956, as amended 2005
 
 | Claim | Checked against |

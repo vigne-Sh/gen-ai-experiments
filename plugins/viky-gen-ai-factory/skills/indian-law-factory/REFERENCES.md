@@ -19,7 +19,7 @@ comes from, or which domain file to read for more depth.
 | [`a-to-z-key-laws.md`](references/a-to-z-key-laws.md) | Alphabetical map of ~45 key central Acts — which law deals with what |
 | [`constitutional-law.md`](references/constitutional-law.md) | Constitution, fundamental rights, landmark SC cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
 | [`criminal-law.md`](references/criminal-law.md) | BNS/BNSS/BSA ↔ IPC/CrPC/Evidence Act mappings; arrest, bail and quashing cases; POCSO duty to report |
-| [`family-and-succession-law.md`](references/family-and-succession-law.md) | Matrimonial tracks, Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
+| [`family-and-succession-law.md`](references/family-and-succession-law.md) | Matrimonial tracks, maintenance and alimony (Rajnesh v. Neha, Shilpa Sailesh, five much-shared cases checked), Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
 | [`consumer-law.md`](references/consumer-law.md) | Consumer Protection Act 2019, Commission structure |
 | [`cyber-law.md`](references/cyber-law.md) | IT Act 2000 — ss.43/66/66C/66D/66E/67/67A, Shreya Singhal, cybercrime reporting |
 | [`corporate-and-commercial-law.md`](references/corporate-and-commercial-law.md) | Companies Act 2013, IBC 2016, Arbitration Act 1996, NI Act s.138 |
