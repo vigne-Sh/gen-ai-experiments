@@ -45,41 +45,46 @@ component inventory (`claude plugin details viky-gen-ai-factory`).
 
 ### Eval suite
 
-`plugins/viky-gen-ai-factory/evals/` has 25 behavioral test cases run via
-`claude plugin eval`, graded by an LLM judge. Latest full run
-(2026-10-05, Claude Code 2.1.283): **25/25 passed**. What those numbers do
-and do not show, reported without spin:
+`plugins/viky-gen-ai-factory/evals/` has 29 behavioural test cases run with
+`claude plugin eval` and graded by an LLM judge. Results below are from
+2026-10-13 (Claude Code 2.1.296), reported as measured — including what
+failed and every change made to the tests themselves.
 
-- **Factual accuracy: no measurable advantage over the base model.** On 19
-  fact-and-behaviour cases (including obscure ones such as BNS 137 vs 139,
-  BNSS 479's one-third rule, hit-and-run BNS 106(2), mob-lynching 103(2)),
-  the plugin scored 19/19 and the plain model 18/19 — and that single
-  difference is a case that flips between runs anyway. This model already
-  knows these facts; the skill's references mainly make the answers
-  checkable and consistent.
-- **Procedure adherence: a clear, measured effect.** For the six-step citizen
-  procedure (ask missing facts → law by date with old+new numbers → what
-  must be proved → lawful options → what not to do → next step + free legal
-  aid + not-legal-advice), the plain model passed **0 of 8** runs. The plugin
-  passed 5 of 8 at first; I tightened step 1 and it passed 12 of 12 on those
-  same four scenarios — so that figure is partly tuned to them. On two
-  scenarios I had *not* tuned against, the plugin passed 5 of 5 runs and the
-  plain model 0 of 5. The rubric is the skill's own spec, so this proves the
-  skill changes behaviour as intended, not that the behaviour is the best
-  possible.
-- **Known limit — it needs an India cue to fire.** A prompt that says only
-  "we live in Salem" (no state, rupees, FIR, or police-station cue) did not
-  trigger the skill in either of two runs; the model assumed the US. With
-  "Salem, Tamil Nadu" it fired every time. Users can always invoke it
-  directly with `/viky-gen-ai-factory:indian-law-factory`.
-- Two rubric clarifications were made after judge flakiness (required vs
-  nice-to-have items); `indian-law-no-fabrication` still flips between runs
-  (about 2 of 3).
+- **Full run, session default model: 26 of 29 passed.** The three failures
+  were fixed in the skill and each re-run three times:
+  - *no-fabrication* 3/3 — it now says where each helpline number was
+    checked, so a correct number does not look invented;
+  - *labour-code date trap* 3/3 — it now explains why articles online
+    conflict (when a law was passed vs. when it came into force);
+  - *scared first-time user* 2/3 — it now explains every legal word in
+    brackets; one run in three still leaves a term unexplained.
+- **Does the plugin make answers more accurate? Measured with and without
+  it on a smaller model** (10 section-number cases, 2 runs each): **17/20
+  with the plugin, 12/20 without.** The plain model gave wrong numbers for
+  kidnapping (IPC 363) and false accusation, among others. One case
+  exposed a rubric bug: the judge passed an answer that gave mob lynching
+  (BNS 103(2)) a "seven years" punishment that is not in the enacted text.
+  After fixing the rubric to check the punishment, that case scored **2/3
+  with the plugin and 0/3 without** (all three plain answers had the
+  wrong punishment; the skill now reads punishments from the Gazette text).
+- **New in this release, all passed first time:** quoting BNS 304
+  (snatching) word for word from the full text, a balanced maintenance
+  answer that does not repeat the "qualified wives get nothing" claim,
+  and two section-number cases from the official chart.
+- **Changes to the tests, disclosed:** the privacy-case turn limit was
+  raised from 6 to 8 (the model ran out of turns reading files); the
+  judge is given the list of verified helpline numbers, since it cannot
+  see the skill's files; the bounced-cheque case no longer requires
+  naming the procedure code; the mob-lynching case now requires the
+  correct punishment and treats "no IPC equivalent" as nice to have.
+- **Known limit — it needs an India cue to fire.** A prompt that only says
+  "we live in Salem" did not trigger it; "Salem, Tamil Nadu" did. You can
+  always invoke it directly with `/viky-gen-ai-factory:indian-law-factory`.
 
 Re-run it yourself from `plugins/viky-gen-ai-factory/`:
 ```bash
 claude plugin eval . --trust-plugin --runs 1 --no-publish
-claude plugin eval . --trust-plugin --runs 2 --ablation with-without   # shows the with/without gap
+claude plugin eval . --trust-plugin --runs 2 --ablation with-without --case "indian-law-uplift-*"
 ```
 
 ## Disclaimer
