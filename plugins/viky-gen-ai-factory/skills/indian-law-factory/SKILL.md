@@ -33,7 +33,11 @@ list of source URLs at the bottom.
   a model's own training-data memory from that window, would be
   confidently wrong about which law currently governs a workplace
   question. Commencement date is a different fact from enactment date;
-  check both.
+  check both. **When a user says they see conflicting information
+  online, explain the gap in the answer itself:** when the law was
+  passed, when it actually came into force, and that articles written
+  in between were right at the time but are now out of date. (Same for
+  BNS: passed December 2023, in force 1 July 2024.)
 - State the date you researched, in the response itself, not just to
   yourself — laws and thresholds change.
 - Where a domain has an old and a new law in play (BNS replacing IPC is
