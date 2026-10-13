@@ -107,7 +107,7 @@ Read this first:
 **New offences with no IPC equivalent (verify the text and punishment live before relying):**
 - **Organised crime** — BNS 111; **petty organised crime** — BNS 112 (syndicated unlawful activity such as kidnapping, extortion, land-grabbing, contract killing, economic and cyber crime).
 - **Terrorist act** — BNS 113 (earlier handled mainly under special laws such as UAPA, which continues).
-- **Mob lynching** — BNS 103(2): murder (or grievous hurt) by five or more persons acting together on a ground such as race, caste, sex, language or personal belief; reported punishment for murder is life imprisonment or death.
+- **Mob lynching** — BNS 103(2): murder by five or more persons acting in concert on the ground of race, caste or community, sex, place of birth, language, personal belief or any similar ground. **No separate IPC provision existed** — such cases went under IPC 302 with 149 or 34. Punishment (Gazette text, `bns/chapter-06.md`): **death or imprisonment for life, and fine** — there is no lower "seven years" option in the enacted text (that wording circulated from the draft bill). Grievous hurt by such a group is BNS 117(4).
 - **Hit and run** — BNS 106(2): death by rash/negligent driving where the driver flees without reporting to the police or a magistrate — reported up to 10 years and fine; if the driver reports promptly, BNS 106(1) applies (up to 5 years).
 
 **Dropped or changed:**

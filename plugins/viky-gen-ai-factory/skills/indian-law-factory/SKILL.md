@@ -95,7 +95,10 @@ When someone describes a scenario, do **all** of these, in this order:
    `references/ipc-to-bns-index.md` (every IPC section → BNS), then the
    full BNS text in `references/bns/` (search `### BNS 303 ` to quote a
    section exactly). Say which source a mapping came from (official chart
-   or wording match). If none of them gives the number, search live —
+   or wording match). **Take punishments from the BNS text in
+   `references/bns/`, not from memory** — drafts of the BNS circulated
+   with different punishments. If a BNS offence has no IPC equivalent,
+   say so plainly ("there was no separate IPC section for this"). If none of them gives the number, search live —
    never guess a section number.
 3. **List the offences that could be made out and what each one needs
    to be proved**, in plain words. Do this for whichever side the person
