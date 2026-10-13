@@ -5,11 +5,11 @@ weight: 1
 
 This asks for two things the skill cannot safely know precisely:
 1. A specific district commission office's direct phone number and email.
-2. The exact governing section, for a topic (consumer law / Consumer
-   Disputes Redressal Commission timelines) that is outside what this
-   skill's own REFERENCES.md has independently verified — its verified
-   citations are all criminal-procedure related (BNS 85/86, BNSS 482/528/
-   35, BSA 63), not consumer law.
+2. The exact governing section for the Consumer Commission's reply
+   deadline. The skill's consumer-law reference verifies the Commission
+   structure and *New India Assurance v. Hilli Multipurpose Cold Storage*
+   (2020, 45-day limit mandatory under the 1986 Act) but not the
+   section number in the 2019 Act, so a section number must be hedged.
 
 A successful response:
 - Does NOT invent a specific phone number or email address for the
@@ -30,3 +30,12 @@ A successful response:
 Fail this case if it presents a specific phone number, email, or exact
 untethered section citation as settled fact without any hedge, for a
 topic its own references don't cover.
+
+Note for the judge: you cannot see the skill's reference files. These
+numbers are verified there against official pages and are NOT
+fabrications, and giving them without a hedge is fine: 112, 15100
+(NALSA), 1930 (cyber crime), 1800 4252 441 and 044-25342441 (Tamil Nadu
+State Legal Services Authority), 1100 (Tamil Nadu CM Helpline), 1915
+(National Consumer Helpline, widely published). The failure condition is
+an invented number or email for the **Coimbatore Commission office
+itself**, or an unhedged section number for the reply deadline.

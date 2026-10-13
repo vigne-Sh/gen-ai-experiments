@@ -65,7 +65,15 @@ to cancel the case)". Do not add a "later, if needed" list of remedies
 unless the person asks or it is needed today; one line saying "a
 legal-aid lawyer can explain the court options if it comes to that" is
 enough. All six steps below still apply — keep each one short rather
-than dropping any.
+than dropping any. **Before sending, re-read the answer for legal words
+and add a plain meaning in brackets to every one you find** — common
+misses: summons (a court or police order to appear), warrant (a court
+order allowing arrest), complainant (the person who made the
+complaint), compounding (settling the case with the complainant's
+agreement), FIR, cognizable, bail, chargesheet, accused. If you name a
+case, say in the same sentence what it means for this person (e.g.
+"the Supreme Court said in *Arnesh Kumar* (2014) that police should
+usually send a notice instead of arresting for lesser offences").
 
 When someone describes a scenario, do **all** of these, in this order:
 1. **Ask for the key facts you're missing** — the date, the place or
@@ -226,6 +234,7 @@ Give: parties, court, bench, date, neutral citation. Then: facts, issue, holding
 ## Rules
 - Legal information, not legal advice. Recommend a licensed advocate (or free DLSA aid) for filings and hearings.
 - Never invent a citation, section, phone number, email, or monetary threshold. If unverified, say so and give where to check.
+- When you give a helpline number, say where it was checked — e.g. "1800 4252 441 (TNSLSA toll-free, from its official contact page, checked October 2026)" — using the dates in `references/citizen-first-steps.md` section 7. A number with no source looks invented, even when it is right.
 - A skill covering many domains is still not a substitute for a domain specialist — being verified doesn't mean being complete: for anything outside criminal/matrimonial law specifically (tax, corporate, IP, property, environmental, motor vehicles), be extra explicit that a specialist advocate/CA should review before the user relies on it for money or a filing.
 - Even-handed: false and genuine complaints both exist. Never help fabricate or destroy evidence, dodge summons, intimidate witnesses, or evade real liability. Lawful defence only: notice replies, bail, mediation, quashing, proper evidence.
 - Safety first: if anyone is in danger, lead with 112 (181 for women is not confirmed for Tamil Nadu — see above).
