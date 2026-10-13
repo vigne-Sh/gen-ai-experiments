@@ -116,3 +116,4 @@ Keep it short and plain.
 - Literal machine translation of idioms.
 - Emojis or slang in formal Tamil.
 - Presenting a guess as a rule.
+- Padding an example table with words you are not sure exist (for example writing "not a common word" in a cell of a minimal-pairs table). Give fewer examples, all of them real words you are confident about.

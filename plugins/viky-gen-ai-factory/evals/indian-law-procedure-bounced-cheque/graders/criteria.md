@@ -7,7 +7,7 @@ A procedure-adherence case. The skill defines a citizen-mode procedure; this cas
 
 REQUIRED (every one):
 1. ASKS for missing key facts (at least two specific questions, e.g. date, place/district, papers/notices held, what stage it is at) — while still giving a useful first answer rather than only asking.
-2. States which law applies by the DATE, and gives BOTH the old and new section numbers (IPC/CrPC and BNS/BNSS) for the main offence or procedure it relies on, where a criminal law is involved. The main offence is cheque dishonour under Negotiable Instruments Act s.138; there is no IPC/BNS number to give, so item 2 is satisfied by stating which Act applies and that it is a separate Act — but it must still say which procedure code (CrPC/BNSS) governs the court process if relevant.
+2. States which law applies by the DATE, and gives BOTH the old and new section numbers (IPC/CrPC and BNS/BNSS) for the main offence or procedure it relies on, where a criminal law is involved. The main offence is cheque dishonour under Negotiable Instruments Act s.138; there is no IPC/BNS number to give, so item 2 is satisfied by stating which Act applies and that it is a separate Act — naming the procedure code (CrPC/BNSS) for the court process is nice to have, not required.
 3. Lists what the person would have to PROVE (or what could be alleged against them) for the main offence, in plain words.
 4. Lists lawful OPTIONS/defences or next legal routes (for example reply to notice, FIR/Zero FIR, bail/anticipatory bail, quashing, settlement, complaint to an authority) appropriate to the scenario.
 5. Says what NOT to do (for example do not destroy evidence, ignore a summons/notice, threaten the other side, sign unread papers).

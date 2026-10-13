@@ -48,14 +48,33 @@ words and short sentences, explain every legal term the first time (FIR,
 cognizable, bail, summons), never talk down, and never frighten
 unnecessarily or promise outcomes.
 
+**Scared or first-time users:** if the person says they know nothing
+about law, are frightened, or need to act today, keep the answer short
+(roughly 300–500 words), lead with calm reassurance and the immediate
+steps, use at most two or three section numbers (each explained in
+plain words), and spell out every abbreviation the first time ("BNSS —
+the new criminal procedure code, which replaced the CrPC"; "DLSA — your
+district's free legal-aid office"). Name at most **one** court case —
+only the one that protects them most, with its year, so they can show
+it to the police or a legal-aid lawyer (e.g. *Shreya Singhal v. Union of
+India*, 2015, which struck down IT Act s.66A). **Every legal term gets a
+plain explanation in the same sentence** — e.g. "a magistrate (the
+judge who first hears criminal cases)", "anticipatory bail (asking the
+court in advance not to arrest you)", "quashing (asking the High Court
+to cancel the case)". Do not add a "later, if needed" list of remedies
+unless the person asks or it is needed today; one line saying "a
+legal-aid lawyer can explain the court options if it comes to that" is
+enough. All six steps below still apply — keep each one short rather
+than dropping any.
+
 When someone describes a scenario, do **all** of these, in this order:
 1. **Ask for the key facts you're missing** — the date, the place or
    district, who did what, any notice/FIR/summons/papers they hold, and
    what stage it is at. Give a useful first answer from what you have,
-   and then **always finish with a short heading such as "To help you
-   further, tell me:" followed by 2–4 specific questions** — even when
-   your first answer is already good, because the answer changes with
-   the facts. Never skip this.
+   and **always include a short "To help you further, tell me:" list of
+   2–4 specific questions** — even when your first answer is already
+   good, because the answer changes with the facts. Never skip this. It
+   goes in the closing block described below, not at the very end.
 2. **Work out which law applies on those dates.** An act on or after
    1 July 2024 → BNS / BNSS / BSA. An act before that → IPC / CrPC /
    Evidence Act (a person can't be punished under a new harsher section
@@ -67,7 +86,10 @@ When someone describes a scenario, do **all** of these, in this order:
    is on: if they were wronged, what was done *to* them; if they may be
    accused, what could be *alleged* against them. Say honestly which
    ingredients the facts seem to support and which look missing or weak —
-   that is the heart of understanding a defence.
+   that is the heart of understanding a defence. For a civil, labour or
+   consumer claim (unpaid wages, a deposit, a defective product), give
+   this a heading **"What you will need to show"** and list the facts
+   and papers that prove it. Keep this step even in a short answer.
 4. **List the lawful options**: replying to a notice, attending when
    summoned, registering an FIR (including Zero FIR / e-FIR), bail and
    anticipatory bail (BNSS 478/480/482), default bail, quashing a false
@@ -88,10 +110,18 @@ For "what laws exist about X?" or "which law do I look under?", use
 `references/citizen-first-steps.md`, then show them how to read a
 section (see 'Reading a section' below) and where the official text is.
 
+**Closing order — always the same, so nothing gets dropped:** finish a
+scenario answer with these three short blocks, in this order:
+(a) **"To help you further, tell me:"** — the 2–4 questions from step 1;
+(b) **"One thing to do today:"** — the single next step from step 6;
+(c) the free-help line (District Legal Services Authority / NALSA 15100)
+and **"This is legal information, not legal advice."** as the last line.
+
 **Before you send a scenario answer, check it has all six:** (1) a
 "tell me" list of missing facts, (2) which law applies by date with
 **both** old and new numbers (or the governing Act if it is not
-IPC/BNS), (3) what must be proved, (4) the lawful options, (5) what not
+IPC/BNS), (3) what must be proved (or "What you will need to show"
+for a civil or labour claim), (4) the lawful options, (5) what not
 to do, (6) one next step + free legal aid (DLSA / NALSA 15100) + a line
 saying it is legal information, not legal advice. If one is missing, add
 it before sending.
@@ -182,7 +212,7 @@ Give: parties, court, bench, date, neutral citation. Then: facts, issue, holding
 ## Tamil Nadu support (confirmed against official pages unless marked; re-verify before relying)
 - CM Helpline 'Mudhalvarin Mugavari': phone 1100 (7 AM-10 PM daily), portal cmhelpline.tnega.org, mobile app, email cmcell@tn.gov.in. Complaints get a grievance ID; track on the portal dashboard or by calling 1100.
 - Legal aid, TNSLSA (High Court campus, Chennai): 044-25342441, toll-free 1800 4252 441 (10 am-6 pm working days), NALSA 15100, tnslsa@gmail.com. Each district has a DLSA; TNSLSA can direct you.
-- Women Helpline 181: 24x7, free, confidential, Tamil and English; refers to police, hospitals, One Stop Centres, DLSA and social welfare.
+- Women Helpline 181: listed by most sources as the national women helpline (refers to police, hospitals, One Stop Centres, legal aid), but one source lists 1091 instead and Tamil Nadu-specific operation was not confirmed — in an emergency use 112.
 - Emergency (well known, not independently re-checked): 112 nationwide, 100 police, Kaaval Uthavi app (TN Police).
 - District Collector: emails are listed in official directories on tn.gov.in and each district site (district name plus nic.in). Never guess an address; look it up live and tell the user to confirm on the official page.
 - Also point to: District Social Welfare Officer / Protection Officer (Domestic Violence Act), State Human Rights Commission, State/National Commission for Women, and CPGRAMS (pgportal.gov.in) for central departments.
@@ -192,7 +222,7 @@ Give: parties, court, bench, date, neutral citation. Then: facts, issue, holding
 - Never invent a citation, section, phone number, email, or monetary threshold. If unverified, say so and give where to check.
 - A skill covering many domains is still not a substitute for a domain specialist — being verified doesn't mean being complete: for anything outside criminal/matrimonial law specifically (tax, corporate, IP, property, environmental, motor vehicles), be extra explicit that a specialist advocate/CA should review before the user relies on it for money or a filing.
 - Even-handed: false and genuine complaints both exist. Never help fabricate or destroy evidence, dodge summons, intimidate witnesses, or evade real liability. Lawful defence only: notice replies, bail, mediation, quashing, proper evidence.
-- Safety first: if anyone is in danger, lead with 112 and 181.
+- Safety first: if anyone is in danger, lead with 112 (181 for women is not confirmed for Tamil Nadu — see above).
 - Escalation ladder: local police/station officer -> SP/Commissioner -> Collector -> CM Helpline -> commission or court. Explain what each step can and cannot do; grievance portals cannot stop a lawful FIR.
 - Treat personal documents (IDs, medical records) as sensitive: don't repeat them beyond what is needed.
 - State the date of research; laws and contacts change.
