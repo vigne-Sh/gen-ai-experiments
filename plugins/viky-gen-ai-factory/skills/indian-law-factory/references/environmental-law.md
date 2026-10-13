@@ -10,7 +10,16 @@
 
 Not independently verified in this pass: specific penalty provisions
 under any of these three Acts, the Environment Impact Assessment (EIA)
-notification process, the National Green Tribunal Act 2010 (the actual
-forum for most environmental litigation today) — research live, and
-note the NGT specifically is likely to matter more in practice than the
-three founding Acts alone for a real environmental dispute.
+notification process — research live. The National Green Tribunal,
+the forum for most environmental disputes today, is covered below.
+
+## National Green Tribunal Act, 2010 — the forum that matters in practice (checked 2026-10-10)
+
+| Provision | What it says |
+|---|---|
+| s.14 | Disputes involving a substantial question relating to the environment: application within **6 months** of the cause of action first arising; the Tribunal may allow a further **60 days** for sufficient cause |
+| s.16 | Appeals against orders under the environmental Acts: within **30 days** of communication, extendable by up to **60 days** |
+| Disposal | The Tribunal aims to decide within 6 months of filing (a target, not a bar) |
+| Further appeal | To the Supreme Court within **90 days** of the NGT's order |
+
+Checked against: [NGT Act text on Indian Kanoon](https://indiankanoon.org/doc/91685705/), [AdvocateKhoj s.18](https://www.advocatekhoj.com/library/bareacts/nationalgreen/18.php?Title=National+Green+Tribunal+Act,+2010&STitle=Application+or+appeal+to+Tribunal), [Wikipedia](https://en.wikipedia.org/wiki/National_Green_Tribunal_Act,_2010).

@@ -1,6 +1,6 @@
 # Cyber / IT law — references
 
-**Last checked:** 2026-09-30
+**Last checked:** 2026-10-13
 
 ## Information Technology Act, 2000 (as amended)
 
@@ -11,16 +11,21 @@
 | s.66C | Identity theft (fraudulent use of another person's password/electronic signature/unique identifying feature) | Up to 3 years imprisonment and/or fine up to ₹1 lakh | Same |
 | s.67 | Publishing/transmitting obscene material in electronic form | Up to 5 years imprisonment and/or fine up to ₹10 lakh (first conviction figures) | Same |
 
-**Not independently verified in this pass:** s.66D (cheating by
-personation using a computer resource) — commonly cited alongside 66C
-for impersonation/fake-account scenarios, but its exact text/punishment
-wasn't separately checked here; verify live before citing it with
-confidence.
+## More IT Act offences (checked 2026-10-13)
+
+| Section | Covers | Punishment | Checked against |
+|---|---|---|---|
+| s.66D | Cheating by personation using a computer resource or phone (fake profiles, "bank official" calls) | Up to 3 years and fine up to ₹1 lakh | [Sansad library copy of the Act](https://eparlib.sansad.in/bitstream/123456789/2997164/1/AU589_ntvEQy.pdf) |
+| s.66E | Capturing, publishing or sending an image of a person's private area without consent | Up to 3 years, or fine up to ₹2 lakh, or both | [SFLC.in](https://privacy.sflc.in/legislative-provisions) |
+| s.67A | Publishing or sending sexually explicit material | First conviction up to 5 years + fine up to ₹10 lakh; repeat up to 7 years + fine up to ₹10 lakh | [Sansad library copy](https://eparlib.sansad.in/bitstream/123456789/2997164/1/AU589_ntvEQy.pdf) |
 
 ## Where to actually report a cyber incident
-National Cyber Crime Reporting Portal (cybercrime.gov.in) and CERT-In
-(cert-in.org.in) — named in `SKILL.md`'s official-sources list; not
-independently re-verified for current URLs/process in this pass.
+**Verified 2026-10-13:** National Cyber Crime Reporting Portal
+**cybercrime.gov.in** for any cyber crime, and helpline **1930** (earlier
+155260) for online financial fraud — call immediately, banks and police
+can freeze the money trail ([MHA Rajya Sabha answer](https://www.mha.gov.in/MHA1/Par2017/pdfs/par2022-pdfs/RS06042022/3908.pdf),
+[Vikaspedia](https://egovernance.vikaspedia.in/viewcontent/e-governance/citizen-services/citizen-financial-cyber-fraud-reporting-and-management-system?lgn=en)).
+CERT-In (cert-in.org.in) handles incident reports from organisations.
 
 ## Landmark: s.66A no longer exists in practice (verified 2026-10-05)
 

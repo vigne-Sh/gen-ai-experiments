@@ -28,3 +28,15 @@
 | Satender Kumar Antil v. CBI | (2022) 10 SCC 51 | Supreme Court, 11 July 2022 | Bail guidelines: arrest must be necessary, strict compliance with arrest procedure (CrPC 41/41A, now BNSS 35), bail applications disposed of within 2 weeks and anticipatory bail within 6 weeks, "bail is the rule, jail the exception" | [Drishti Judiciary](https://www.drishtijudiciary.com/code-of-criminal-procedure/satender-Kumar-antil-v-central-bureau-of-investigation-10-scc-51-2022), [iPleaders](https://blog.ipleaders.in/satender-kumar-antil-vs-cbi-2022/) |
 | Lalita Kumari v. Govt. of U.P. | (2014) 2 SCC 1 | Supreme Court, Constitution Bench, 12 November 2013 | FIR registration is mandatory when information discloses a cognizable offence; limited categories allow a preliminary enquiry | [Indian Kanoon](https://indiankanoon.org/doc/10239019/), [iPleaders](https://blog.ipleaders.in/critical-analysis-of-lalita-kumari-v-govt-of-u-p/) |
 | D.K. Basu v. State of West Bengal | AIR 1997 SC 610 (SCC volume reported inconsistently across sources, so cite the AIR reference) | Supreme Court, 1997 | Eleven guidelines on arrest and custody: name tags, arrest memo, informing a relative, medical check, lawyer access | [iPleaders](https://blog.ipleaders.in/dk-basu-vs-state-of-west-bengal-1997-case-analysis/) |
+
+## POCSO Act, 2012 — duty to report (checked 2026-10-13)
+
+| Section | What it says |
+|---|---|
+| s.19 | **Anyone** who knows or suspects a sexual offence against a child (under 18) must report it to the police or the Special Juvenile Police Unit |
+| s.21(1) | Failing to report or record: up to **6 months**, or fine, or both |
+| s.21(2) | Head of an institution who fails to report an offence by a subordinate: up to **1 year** and fine |
+| s.21(3) | A **child** is never punished for not reporting |
+
+A school's internal inquiry or a parent's email to the school does not
+replace reporting to the police. Checked against: [KVS school-safety guidelines quoting s.21](https://aees.gov.in/htmldocs/downloads/RECRUITMENT/Guidelines%20of%20school%20safety%20and%20security-POCSO%20Act-Dated%2002.04.2024.pdf), [NLSIU mandatory-reporting paper](https://feministlawarchives.pldindia.org/wp-content/uploads/Mandatory-Reporting-Paper-CCL-NLSIU.pdf), [Verdictum (P&H High Court, 2024)](https://www.verdictum.in/court-updates/high-courts/punjab-and-haryana-surjeet-khanna-v-state-2024-phhc-023004-section-19-pocso-act-1523202), [SCC Online 2026](https://www.scconline.com/blog/post/2026/07/17/suppression-of-child-sexual-abuse-attracts-section-21-pocso-act/).

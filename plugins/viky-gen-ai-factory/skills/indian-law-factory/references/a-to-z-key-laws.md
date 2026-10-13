@@ -1,6 +1,6 @@
 # A to Z — key Indian laws an ordinary person should know exist
 
-**Last checked:** 2026-10-05
+**Last checked:** 2026-10-13
 
 **What this is:** a quick alphabetical map — "which law deals with what" — so a person who doesn't know where to start can find the right door. It is **not** every Indian law (there are hundreds of central Acts plus each state's own laws), and the one-line purposes are **general knowledge**, not freshly verified quotations. Laws get amended and replaced — always check the current text on [India Code](https://www.indiacode.nic.in/) before relying on a detail. Entries already verified in this skill's other reference files say so and point to the file.
 
@@ -16,8 +16,8 @@
 | **Constitution of India, 1950** | Fundamental rights (Part III), how government works; Articles 32 and 226 let you go straight to the Supreme Court/High Court for a rights violation. `constitutional-law.md` |
 | **Consumer Protection Act, 2019** | Complaints about defective goods, poor service, unfair trade practices; District/State/National Commissions. `consumer-law.md` |
 | **Copyright Act, 1957** | Protects books, music, films, software and similar creative work. `ip-law.md` |
-| **Digital Personal Data Protection Act, 2023** | Rules for how organisations collect and use your personal data; consent, correction, erasure, a Data Protection Board. Parts of it are brought into force in stages — check which parts are in force today. |
-| **Dowry Prohibition Act, 1961** | Makes giving, taking and demanding dowry an offence. |
+| **Digital Personal Data Protection Act, 2023** | Rules for how organisations collect and use your personal data; consent, correction, erasure, a Data Protection Board. The DPDP Rules were notified on 13 November 2025 (Gazette 14 November) and commence in phases: Data Protection Board rules immediately, consent-manager rules after 12 months (~13 November 2026), and most obligations (notice, consent, breach reporting, rights) by **13 May 2027**. The Board's staffing was reported inconsistently — check its current status. Verified 2026-10-10 via [Legal500](https://www.legal500.com/intelligence/india/privacy/india's-digital-personal-data-protection-act-and-the-dpdp-rules-2025-phased-commencement-core-obligations-and-a-board-ready-compliance-strategy) and [Baker Botts](https://ourtake.bakerbotts.com/post/102lund/india-notifies-final-rules-for-digital-data-protection-act). |
+| **Dowry Prohibition Act, 1961** | Makes giving, taking and demanding dowry an offence. Penalties: `family-and-succession-law.md` |
 | **Environment Protection Act, 1986** (and the Water Act 1974, Air Act 1981) | Pollution control and environmental protection. `environmental-law.md` |
 | **Guardians and Wards Act, 1890** | Appointing a guardian for a minor's person or property; used in custody disputes. |
 | **Hindu Marriage Act, 1955** | Marriage, divorce, judicial separation for Hindus (also Buddhists, Jains, Sikhs). |
@@ -38,9 +38,9 @@
 | **Prevention of Corruption Act, 1988** | Bribery and corruption by public servants. |
 | **Prevention of Money Laundering Act, 2002** | Offence of laundering the proceeds of crime; enforced by the Enforcement Directorate. |
 | **Prohibition of Child Marriage Act, 2006** | Makes child marriage voidable and punishable. |
-| **Protection of Children from Sexual Offences (POCSO) Act, 2012** | Sexual offences against anyone under 18; child-friendly procedure. |
+| **Protection of Children from Sexual Offences (POCSO) Act, 2012** | Sexual offences against anyone under 18; child-friendly procedure; everyone's duty to report. `criminal-law.md` |
 | **Protection of Women from Domestic Violence Act, 2005** | Civil protection for women facing domestic violence: protection orders, right to reside in the shared household, monetary relief. `family-and-succession-law.md` |
-| **Real Estate (Regulation and Development) Act, 2016 (RERA)** | Regulates builders and promoters; protects home buyers. Not yet researched in `property-law.md`. |
+| **Real Estate (Regulation and Development) Act, 2016 (RERA)** | Regulates builders and promoters; protects home buyers — registration, 70% separate account, refund or interest for delay. `property-law.md` |
 | **Registration Act, 1908** | Which property documents must be registered. `property-law.md` |
 | **Right to Information Act, 2005** | Ask any public authority for information; 30-day reply rule. `rti.md` |
 | **Rights of Persons with Disabilities Act, 2016** | Rights, reservations and accessibility for persons with disabilities. |

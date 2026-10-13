@@ -8,7 +8,7 @@ against what — and, just as importantly, what within that domain
 *hasn't* been checked yet. Point users here if they ask where a claim
 comes from, or which domain file to read for more depth.
 
-**Last full pass:** 2026-09-30 (citizen files `citizen-first-steps.md`, `bns-ipc-key-offences.md`, `a-to-z-key-laws.md` added 2026-10-05)
+**Last full pass:** 2026-10-13 — helplines, RTI appeals, RERA, NGT, Domestic Violence/Dowry/wills, POCSO, IT Act 66D–67A, DPDP Rules and unpaid wages added. Earlier pass: 2026-09-30 (citizen files `citizen-first-steps.md`, `bns-ipc-key-offences.md`, `a-to-z-key-laws.md` added 2026-10-05)
 
 ## Domain files (`references/`)
 
@@ -18,18 +18,18 @@ comes from, or which domain file to read for more depth.
 | [`bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) | ~70 common offences, IPC ↔ BNS (511 vs 358 sections), what must be shown, plus CrPC ↔ BNSS procedure map |
 | [`a-to-z-key-laws.md`](references/a-to-z-key-laws.md) | Alphabetical map of ~45 key central Acts — which law deals with what |
 | [`constitutional-law.md`](references/constitutional-law.md) | Constitution, fundamental rights, landmark SC cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
-| [`criminal-law.md`](references/criminal-law.md) | BNS/BNSS/BSA ↔ IPC/CrPC/Evidence Act mappings, Arnesh Kumar |
-| [`family-and-succession-law.md`](references/family-and-succession-law.md) | Matrimonial tracks, Hindu Succession Act 2005 amendment |
+| [`criminal-law.md`](references/criminal-law.md) | BNS/BNSS/BSA ↔ IPC/CrPC/Evidence Act mappings; arrest, bail and quashing cases; POCSO duty to report |
+| [`family-and-succession-law.md`](references/family-and-succession-law.md) | Matrimonial tracks, Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
 | [`consumer-law.md`](references/consumer-law.md) | Consumer Protection Act 2019, Commission structure |
-| [`cyber-law.md`](references/cyber-law.md) | IT Act 2000 — ss.43/66/66C/67 |
+| [`cyber-law.md`](references/cyber-law.md) | IT Act 2000 — ss.43/66/66C/66D/66E/67/67A, Shreya Singhal, cybercrime reporting |
 | [`corporate-and-commercial-law.md`](references/corporate-and-commercial-law.md) | Companies Act 2013, IBC 2016, Arbitration Act 1996, NI Act s.138 |
 | [`tax-law.md`](references/tax-law.md) | Income Tax Act 1961, CGST Act 2017/GST |
-| [`labour-law.md`](references/labour-law.md) | The 4 Labour Codes — including the enacted-vs-in-force date trap |
-| [`property-law.md`](references/property-law.md) | Transfer of Property Act 1882, Registration Act 1908 |
+| [`labour-law.md`](references/labour-law.md) | The 4 Labour Codes — including the enacted-vs-in-force date trap; unpaid-wage claims |
+| [`property-law.md`](references/property-law.md) | Transfer of Property Act 1882, Registration Act 1908, RERA 2016 |
 | [`ip-law.md`](references/ip-law.md) | Copyright, Patents, Trade Marks Acts — terms of protection |
-| [`environmental-law.md`](references/environmental-law.md) | Water Act 1974, Air Act 1981, Environment Protection Act 1986 |
+| [`environmental-law.md`](references/environmental-law.md) | Water Act 1974, Air Act 1981, Environment Protection Act 1986, National Green Tribunal time limits |
 | [`motor-vehicles-law.md`](references/motor-vehicles-law.md) | Motor Vehicles Act 1988 — third-party insurance, MACT |
-| [`rti.md`](references/rti.md) | RTI Act 2005 — request/timeline/exemption sections |
+| [`rti.md`](references/rti.md) | RTI Act 2005 — request/timeline/exemption sections, appeals and penalty |
 
 Each file follows the same format: a table of specific claims with the
 source(s) checked and a "not independently verified in this pass"
@@ -56,10 +56,11 @@ for `SKILL.md`'s live-research protocol on anything not listed here.
 | [CIC](https://cic.gov.in/) | RTI |
 | [CERT-In](https://www.cert-in.org.in/) | Cyber-incident reporting |
 
-## Tamil Nadu support channels — not independently re-verified in this pass
+## Tamil Nadu support channels
 
-Helpline numbers (CM Helpline 1100, TNSLSA 044-25342441 / 1800 4252 441,
-NALSA 15100, Women Helpline 181) and office addresses in `SKILL.md`
-were carried over from an earlier pass and are marked there as
-"confirmed against official pages unless marked; re-verify before
-relying". Treat those the same way: check live before you act on them.
+Helpline numbers are in `references/citizen-first-steps.md`, section 7,
+each marked with what it was checked against. Verified there: 112 (by
+general knowledge), NALSA 15100, cyber crime 1930 / cybercrime.gov.in,
+Tamil Nadu CM Helpline 1100, and TNSLSA 1800 4252 441 / 044-25342441.
+The Women Helpline 181 is **not** confirmed for Tamil Nadu. Numbers
+change; re-check any number before a person relies on it.

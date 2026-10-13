@@ -1,6 +1,6 @@
 # Citizen first steps — know your basic rights, with no lawyer and no money
 
-**Last checked:** 2026-10-05
+**Last checked:** 2026-10-13
 
 This is legal information to help a person understand where they stand and what to do first. It is not legal advice and not a substitute for a lawyer — but it is written for someone who cannot afford one and doesn't know where to start. Each fact is marked **verified** (checked in a live search on the date above, source named) or **general knowledge** (widely settled, but read the current text before relying on it).
 
@@ -39,8 +39,8 @@ This is legal information to help a person understand where they stand and what 
 ## 4. Free legal help — you do not have to pay for a lawyer
 
 - **Who is entitled:** under Section 12 of the Legal Services Authorities Act 1987, free legal services are available to, among others, **women**, **children** (till 18), members of **SC/ST**, **persons in custody**, and persons whose annual income is below the limit fixed by their state (₹5 lakh for matters in the Supreme Court). The income test does **not** apply to women, children, SC/ST members and persons in custody. **verified** — [NALSA legal-aid page](https://nalsa.gov.in/legal-aid/), [NALSA FAQs](https://nalsa.gov.in/faqs/), [Lawgist](https://lawgist.in/legal-services-authorities-act/12).
-- **Where to ask:** the **District Legal Services Authority (DLSA)** in your district court complex, the **Taluk legal services committee**, or the **State Legal Services Authority**; the national helpline is **15100** (listed by NALSA; carried over from an earlier pass — confirm on nalsa.gov.in). If you are arrested, tell the magistrate you want a legal-aid lawyer — they are expected to arrange one.
-- **Tamil Nadu:** TNSLSA and the district DLSAs — contact details are in `SKILL.md` and must be re-checked live.
+- **Where to ask:** the **District Legal Services Authority (DLSA)** in your district court complex, the **Taluk legal services committee**, or the **State Legal Services Authority**; the national helpline is **15100** (toll-free; **verified** — listed as the NALSA helpline on [Tamil Nadu NALSA page](https://tamilnadu.nalsa.gov.in/?p=721) and [Chandigarh SLSA](https://chandigarh.nalsa.gov.in/contact-us/)). If you are arrested, tell the magistrate you want a legal-aid lawyer — they are expected to arrange one.
+- **Tamil Nadu:** TNSLSA and the district DLSAs — see section 7 for the verified numbers.
 - **Also free:** Lok Adalats (settlement forums) and legal-aid clinics run by the legal services authorities — **general knowledge**, ask the DLSA.
 
 ## 5. Being a law-abiding citizen — habits that keep you out of trouble
@@ -62,4 +62,15 @@ It will not tell you to lie, delay, hide or destroy evidence, avoid a summons, o
 
 ## Not independently verified in this pass
 
-State-specific rules (stamp duty, local police procedures, state legal-aid income limits), exact default-bail periods for each category of offence, whether a particular offence is bailable/cognizable, and current helpline numbers — look these up live.
+State-specific rules (stamp duty, local police procedures, state legal-aid income limits), exact default-bail periods for each category of offence, whether a particular offence is bailable/cognizable, — look these up live. Helpline numbers are in section 7; numbers change, so re-check before an emergency.
+
+## 7. Helpline numbers (checked 2026-10-13)
+
+| Number | What for | Status |
+|---|---|---|
+| **112** | National emergency (police, fire, ambulance) | general knowledge — use first if anyone is in danger |
+| **15100** | NALSA free legal-aid helpline (toll-free) | **verified** — [TN NALSA page](https://tamilnadu.nalsa.gov.in/?p=721), [Chandigarh SLSA](https://chandigarh.nalsa.gov.in/contact-us/) |
+| **1930** and **cybercrime.gov.in** | Online financial fraud and cyber crime — call fast, the money can sometimes be frozen; the portal takes all cyber complaints | **verified** — [MHA Rajya Sabha answer (1930, earlier 155260)](https://www.mha.gov.in/MHA1/Par2017/pdfs/par2022-pdfs/RS06042022/3908.pdf), [Kerala Police notice](https://ps.keralapolice.gov.in/ernakulamruralcyber-ps/notifications/National-Cyber-Crime-Reporting-Helpline-No-1930-3338) |
+| **1800 4252 441** (toll-free), **044-25342441** | Tamil Nadu State Legal Services Authority, Gate No. 6, North Fort Road, High Court Campus, Chennai 600 104; 10 am–6 pm on working days; tnslsa@gmail.com | **verified** — [TNSLSA official contact page](https://tnlegalservices.tn.gov.in/help_line.htm) |
+| **1100** | Tamil Nadu CM Helpline (Mudhalvarin Mugavari) — government grievances, not police emergencies | number **verified**; hours reported as 7 am–10 pm, but sources differ on whether Sundays are included — [IndiaCustomerCare](https://www.indiacustomercare.com/tamil-nadu-cm-helpline-no-1100), [TNPSC Thervupettagam](https://www.tnpscthervupettagam.com/currentaffairs-detail/helpline-no-%E2%80%981100%E2%80%99/) |
+| 181 | Women helpline | **not confirmed** for Tamil Nadu — most sources list 181 nationally, one lists 1091; in an emergency use 112 |

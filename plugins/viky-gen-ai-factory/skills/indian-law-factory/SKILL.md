@@ -137,20 +137,20 @@ live in every case.
 
 | Domain | Governing law(s) now | What it replaced | Details |
 |---|---|---|---|
-| Constitutional | Constitution of India, 1950 | — | [`references/constitutional-law.md`](references/constitutional-law.md) — fundamental rights, writ jurisdiction, 4 verified landmark cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
-| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 (511 sections) / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings + Arnesh Kumar; [`references/bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) — ~70 common offences, IPC↔BNS, with what must be shown; [`references/citizen-first-steps.md`](references/citizen-first-steps.md) — FIR, arrest, bail, free legal aid |
-| Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks + Hindu Succession Act 2005 amendment |
+| Constitutional | Constitution of India, 1950 | — | [`references/constitutional-law.md`](references/constitutional-law.md) — fundamental rights, writ jurisdiction, verified landmark cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka, Navtej Johar, Joseph Shine, Shayara Bano) |
+| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 (511 sections) / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings, arrest/bail/quashing cases, POCSO duty to report; [`references/bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) — ~70 common offences, IPC↔BNS, with what must be shown; [`references/citizen-first-steps.md`](references/citizen-first-steps.md) — FIR, arrest, bail, free legal aid |
+| Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks, Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
 | Consumer protection | Consumer Protection Act, 2019 (in force July 2020) | Consumer Protection Act, 1986 | [`references/consumer-law.md`](references/consumer-law.md) — Commission structure; verify current pecuniary thresholds live |
-| Cyber / IT law | Information Technology Act, 2000 (as amended) | — | [`references/cyber-law.md`](references/cyber-law.md) — ss.43/66/66C/67 |
+| Cyber / IT law | Information Technology Act, 2000 (as amended) | — | [`references/cyber-law.md`](references/cyber-law.md) — ss.43/66/66C/66D/66E/67/67A, Shreya Singhal, 1930 and cybercrime.gov.in |
 | Corporate / commercial | Companies Act 2013, IBC 2016, Arbitration Act 1996, NI Act 1881 | Companies Act 1956 (repealed 30 Jan 2019) | [`references/corporate-and-commercial-law.md`](references/corporate-and-commercial-law.md) — CIRP timelines, arbitration amendments, s.138 cheque bounce |
 | Tax — direct | Income Tax Act, 1961 (as amended annually by Finance Acts) | — | [`references/tax-law.md`](references/tax-law.md) — rates/slabs change yearly, always check the current Finance Act |
 | Tax — indirect | CGST Act 2017 + matching SGST/UTGST Acts (GST since 1 July 2017) | State VAT/sales-tax regimes, central excise, service tax | [`references/tax-law.md`](references/tax-law.md) — rates set by GST Council notification, not the Act text alone |
-| Labour / employment | 4 Labour Codes - Wages (2019), Industrial Relations, Social Security, OSH (2020) - **in force 21 November 2025** | ~29 separate Acts (Factories Act, Minimum Wages Act, Industrial Disputes Act, etc.) | [`references/labour-law.md`](references/labour-law.md) — the enacted-vs-in-force date trap, get this date right before citing which regime governs |
-| Property | Transfer of Property Act 1882, Registration Act 1908 | — | [`references/property-law.md`](references/property-law.md) — which documents need compulsory registration; RERA not yet researched |
+| Labour / employment | 4 Labour Codes - Wages (2019), Industrial Relations, Social Security, OSH (2020) - **in force 21 November 2025** | ~29 separate Acts (Factories Act, Minimum Wages Act, Industrial Disputes Act, etc.) | [`references/labour-law.md`](references/labour-law.md) — the enacted-vs-in-force date trap, get this date right before citing which regime governs; unpaid-wage claims (Code on Wages s.17(2), s.45) |
+| Property | Transfer of Property Act 1882, Registration Act 1908, RERA 2016 | — | [`references/property-law.md`](references/property-law.md) — which documents need compulsory registration; RERA registration, delay refund/interest, complaints |
 | Intellectual property | Copyright Act 1957, Patents Act 1970, Trade Marks Act 1999 | — | [`references/ip-law.md`](references/ip-law.md) — terms of protection; Designs Act not yet researched |
-| Environmental | Water Act 1974, Air Act 1981, Environment Protection Act 1986 | — | [`references/environmental-law.md`](references/environmental-law.md) — CPCB/SPCB structure; NGT Act not yet researched (likely matters more in practice) |
+| Environmental | Water Act 1974, Air Act 1981, Environment Protection Act 1986 | — | [`references/environmental-law.md`](references/environmental-law.md) — CPCB/SPCB structure; National Green Tribunal time limits |
 | Motor vehicles / accidents | Motor Vehicles Act, 1988 | — | [`references/motor-vehicles-law.md`](references/motor-vehicles-law.md) — third-party insurance, MACT jurisdiction |
-| Right to Information | RTI Act, 2005 | — | [`references/rti.md`](references/rti.md) — s.6 request, s.7 timelines, s.8 exemptions |
+| Right to Information | RTI Act, 2005 | — | [`references/rti.md`](references/rti.md) — s.6 request, s.7 timelines, s.8 exemptions, s.19 appeals, s.20 penalty |
 
 ## Comprehensive answer format
 For a substantive question, structure the answer like this (skip
@@ -210,10 +210,10 @@ Give: parties, court, bench, date, neutral citation. Then: facts, issue, holding
 - CBIC (cbic.gov.in) for GST/customs; MCA (mca.gov.in) for company law; CIC (cic.gov.in) for RTI; CERT-In (cert-in.org.in) for cyber-law incident guidance
 
 ## Tamil Nadu support (confirmed against official pages unless marked; re-verify before relying)
-- CM Helpline 'Mudhalvarin Mugavari': phone 1100 (7 AM-10 PM daily), portal cmhelpline.tnega.org, mobile app, email cmcell@tn.gov.in. Complaints get a grievance ID; track on the portal dashboard or by calling 1100.
+- CM Helpline 'Mudhalvarin Mugavari': phone 1100 (reported 7 AM-10 PM; sources differ on Sundays), portal cmhelpline.tnega.org, mobile app, email cmcell@tn.gov.in. Complaints get a grievance ID; track on the portal dashboard or by calling 1100.
 - Legal aid, TNSLSA (High Court campus, Chennai): 044-25342441, toll-free 1800 4252 441 (10 am-6 pm working days), NALSA 15100, tnslsa@gmail.com. Each district has a DLSA; TNSLSA can direct you.
 - Women Helpline 181: listed by most sources as the national women helpline (refers to police, hospitals, One Stop Centres, legal aid), but one source lists 1091 instead and Tamil Nadu-specific operation was not confirmed — in an emergency use 112.
-- Emergency (well known, not independently re-checked): 112 nationwide, 100 police, Kaaval Uthavi app (TN Police).
+- Emergency: 112 nationwide; cyber fraud 1930 and cybercrime.gov.in (verified, see `references/citizen-first-steps.md` section 7); Kaaval Uthavi app (TN Police, not re-checked).
 - District Collector: emails are listed in official directories on tn.gov.in and each district site (district name plus nic.in). Never guess an address; look it up live and tell the user to confirm on the official page.
 - Also point to: District Social Welfare Officer / Protection Officer (Domestic Violence Act), State Human Rights Commission, State/National Commission for Women, and CPGRAMS (pgportal.gov.in) for central departments.
 
