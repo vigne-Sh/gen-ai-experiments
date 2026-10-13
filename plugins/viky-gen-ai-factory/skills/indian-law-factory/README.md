@@ -31,14 +31,28 @@ free legal-aid route (District Legal Services Authority, NALSA 15100).
 Ready-made references for this, all in `references/`:
 - `citizen-first-steps.md` — rights at FIR/arrest, bail, free legal aid,
   law-abiding habits;
-- `bns-ipc-key-offences.md` — ~70 common offences IPC ↔ BNS with what
-  must be shown, plus the CrPC ↔ BNSS procedure map;
+- `bns-ipc-key-offences.md` — ~80 common offences IPC ↔ BNS with what
+  must be shown, new and dropped offences, plus the CrPC ↔ BNSS
+  procedure map;
+- `bns/` — the **full text of all 358 BNS sections** (Gazette, as
+  enacted), one file per chapter, each with its old IPC number and, for
+  common offences, a plain-words note;
+- `ipc-to-bns-index.md` — every IPC section with its BNS number, each
+  mapping labelled as from the official chart or a wording match;
+- maintenance and alimony (*Rajnesh v. Neha*, Article 142 divorce, and
+  what five much-shared "pro-husband" judgments actually decided),
+  Domestic Violence and Dowry Acts, POCSO reporting, RERA, RTI appeals,
+  the Green Tribunal, unpaid wages, IT Act 66D–67A, and verified
+  helplines (15100, 1930, TNSLSA, 1100);
 - Landmark case citations (19, each checked in a live search) sit in the domain files — e.g. *Lalita Kumari* on FIRs, *Joginder Kumar* and *D.K. Basu* on arrest, *Satender Kumar Antil* on bail, *Bhajan Lal* and *Gian Singh* on quashing, *Shreya Singhal* on s.66A;
 - `a-to-z-key-laws.md` — alphabetical "which law deals with what" map.
 
-**What it is not:** it does not contain all of Indian law, and it needs an India cue (an Indian place, rupees, FIR, a police station) or an explicit `/viky-gen-ai-factory:indian-law-factory` to start. The IPC alone
-had 511 sections and the BNS has 358; this holds the common ones plus a
-method for looking up the rest live. It never claims otherwise.
+**What it is not:** it does not contain all of Indian law, and it needs an India cue (an Indian place, rupees, FIR, a police station) or an explicit `/viky-gen-ai-factory:indian-law-factory` to start. It holds the
+full BNS text and an IPC→BNS index, but not the full text of the IPC
+(the only official copy available predates the 2013 amendments, so it
+would mislead), the BNSS, the BSA, or the hundreds of other Acts — for
+those it reads the current text live on India Code. 83 of the 548 IPC
+rows still have no checked BNS number. It never claims more than this.
 
 ## What it does
 
@@ -63,8 +77,9 @@ method for looking up the rest live. It never claims otherwise.
   obiter and whether it binds.
 - Points to official sources (India Code, e-Gazette, Supreme Court/High
   Court sites, eCourts, CBIC, MCA, CIC, CERT-In) and Tamil Nadu support
-  channels (CM Helpline, TNSLSA legal aid, Women Helpline 181) rather
-  than inventing them.
+  channels (CM Helpline 1100, TNSLSA legal aid, NALSA 15100, cyber
+  crime 1930) rather than inventing them. Women Helpline 181 is flagged
+  as unconfirmed for Tamil Nadu.
 
 ## What it does not do
 
