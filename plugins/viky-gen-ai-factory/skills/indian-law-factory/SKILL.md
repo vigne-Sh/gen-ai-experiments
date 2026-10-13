@@ -79,8 +79,12 @@ When someone describes a scenario, do **all** of these, in this order:
    1 July 2024 → BNS / BNSS / BSA. An act before that → IPC / CrPC /
    Evidence Act (a person can't be punished under a new harsher section
    for an old act). Always give **both** section numbers. Look them up in
-   `references/bns-ipc-key-offences.md` first; if the section isn't
-   there, search live — never guess a section number.
+   `references/bns-ipc-key-offences.md` first (plain-words summaries), then
+   `references/ipc-to-bns-index.md` (every IPC section → BNS), then the
+   full BNS text in `references/bns/` (search `### BNS 303 ` to quote a
+   section exactly). Say which source a mapping came from (official chart
+   or wording match). If none of them gives the number, search live —
+   never guess a section number.
 3. **List the offences that could be made out and what each one needs
    to be proved**, in plain words. Do this for whichever side the person
    is on: if they were wronged, what was done *to* them; if they may be
@@ -127,8 +131,9 @@ saying it is legal information, not legal advice. If one is missing, add
 it before sending.
 
 Be honest about the limits: there is no shortcut to "all of Indian law"
-— the IPC alone had 511 sections and the BNS has 358, and this skill
-holds only the common ones plus a method for looking up the rest.
+— this skill holds the full BNS text (358 sections) and an IPC→BNS
+index, but not the full text of the IPC, CrPC/BNSS, BSA or the hundreds
+of other Acts. For those, read the current text live on India Code.
 
 ## Domains this skill covers
 Not exhaustive — Indian law is far larger than any one skill file — but
@@ -138,7 +143,7 @@ live in every case.
 | Domain | Governing law(s) now | What it replaced | Details |
 |---|---|---|---|
 | Constitutional | Constitution of India, 1950 | — | [`references/constitutional-law.md`](references/constitutional-law.md) — fundamental rights, writ jurisdiction, verified landmark cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka, Navtej Johar, Joseph Shine, Shayara Bano) |
-| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 (511 sections) / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings, arrest/bail/quashing cases, POCSO duty to report; [`references/bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) — ~70 common offences, IPC↔BNS, with what must be shown; [`references/citizen-first-steps.md`](references/citizen-first-steps.md) — FIR, arrest, bail, free legal aid |
+| Criminal | BNS / BNSS / BSA, 2023 (from 1 July 2024) | IPC 1860 (511 sections) / CrPC 1973 / Evidence Act 1872 | [`references/criminal-law.md`](references/criminal-law.md) — verified section mappings, arrest/bail/quashing cases, POCSO duty to report; [`references/bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) — ~80 common offences, IPC↔BNS, with what must be shown; [`references/ipc-to-bns-index.md`](references/ipc-to-bns-index.md) — every IPC section → BNS; [`references/bns/`](references/bns/README.md) — full BNS text, all 358 sections, with notes; [`references/citizen-first-steps.md`](references/citizen-first-steps.md) — FIR, arrest, bail, free legal aid |
 | Family / succession | See 'Matrimonial and family disputes' below | — | [`references/family-and-succession-law.md`](references/family-and-succession-law.md) — matrimonial tracks, maintenance and alimony (BNSS 144 / CrPC 125, Rajnesh v. Neha, Article 142 divorce), Domestic Violence Act reliefs, Dowry Act penalties, wills, Hindu Succession Act 2005 amendment |
 | Consumer protection | Consumer Protection Act, 2019 (in force July 2020) | Consumer Protection Act, 1986 | [`references/consumer-law.md`](references/consumer-law.md) — Commission structure; verify current pecuniary thresholds live |
 | Cyber / IT law | Information Technology Act, 2000 (as amended) | — | [`references/cyber-law.md`](references/cyber-law.md) — ss.43/66/66C/66D/66E/67/67A, Shreya Singhal, 1930 and cybercrime.gov.in |

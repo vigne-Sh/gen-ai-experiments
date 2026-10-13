@@ -1,11 +1,13 @@
 # BNS ↔ IPC — the offences ordinary people actually meet
 
-**Last checked:** 2026-10-05 (kidnapping row corrected and ~12 sections added the same day)
+**Last checked:** 2026-10-13 — every pair below that the official chart or the BNS/IPC wording comparison covers was re-checked against them: **0 disagreements** (see `bns/README.md`). Earlier pass 2026-10-05.
 
 Read this first:
 - **IPC (1860) had 511 sections; BNS (2023) has 358.** BNS has applied to offences committed **on or after 1 July 2024**. An offence committed **before** that date is still dealt with under the IPC (and CrPC procedure rules as saved by BNSS) — you cannot be punished under a harsher new section for an old act (Article 20(1) of the Constitution). Always ask "on what date did it happen?" first.
 - **This is not all 511 sections.** It is the ~70 sections a citizen is most likely to come across. Every mapping below was confirmed against at least one secondary legal source in a live search (sources at the bottom). The authoritative full table — the official BNS–IPC corresponding-section table — could not be reached from the sandbox this was built in (the host was blocked), so for any section not listed here, **look it up live** on [India Code](https://www.indiacode.nic.in/) or the official comparison table, and never guess a number.
 - **"What must be shown"** is a plain-language summary of the main ingredients, written from general legal knowledge, **not** quoted statute text. The real section has exceptions and provisos — read the bare text before relying on it. Punishments are deliberately not listed (they were changed for several offences; look them up live).
+
+> **Need a section not in this table?** [`ipc-to-bns-index.md`](ipc-to-bns-index.md) maps every IPC section, and [`bns/`](bns/README.md) has the full text of all 358 BNS sections with notes.
 
 ## Offences against the body
 
@@ -116,7 +118,7 @@ Read this first:
 
 ## Still not verified in this pass (look up live — don't guess)
 
-IPC 366 (kidnapping a woman to compel marriage) and its BNS number; BNS 304 (snatching) and BNS 69 (sexual intercourse by deceitful means/false promise of marriage) — I believe these numbers are right but did not confirm them; and every section not named in this file.
+Now confirmed (2026-10-13): IPC 366 → BNS 87 (official chart); BNS 304 is snatching and BNS 69 is sexual intercourse by deceitful means (official Gazette text, `bns/chapter-17.md` and `bns/chapter-05.md`). For any section not named in this file, use `ipc-to-bns-index.md` (every IPC section) and the full BNS text in `bns/` — and where those give no mapping, look it up live.
 
 > **Correction note.** An earlier version of this file gave kidnapping punishment (IPC 363) as BNS 139. That was wrong: IPC 363 maps to BNS 137(2), and BNS 139 is the *begging* offence (IPC 363A). Secondary-source summaries can be wrong on exact numbers — treat every row here as "checked against secondary sources, confirm on India Code".
 
@@ -136,6 +138,10 @@ IPC 366 (kidnapping a woman to compel marriage) and its BNS number; BNS 304 (sna
 | Compounding (settling) offences | 320 | 359 |
 | High Court inherent power / quashing | 482 | 528 |
 
-## Sources checked (all secondary — the official table was unreachable)
+## Sources checked
+
+**Official (2026-10-13):** the Gazette text of the BNS, the Ministry of Home Affairs IPC copy, and the comparative chart in the Punjab Police Academy handbook published by BPR&D — checksums and method in [`bns/README.md`](bns/README.md#sources).
+
+**Secondary (the earlier passes):**
 
 [LawSikho conversion table](https://lawsikho.com/blog/ipc-to-bns-conversion-table/) · [Vakeel360 mapping](https://vakeel360.com/ipc-to-bns) · [AdvocateManishJha converter](https://advocatemanishjha.com/bns-converter.php) · [iPleaders BNS hurt sections](https://blog.ipleaders.in/hurt-and-grievous-hurt-under-the-bns/) · [iPleaders IPC-vs-BNS](https://blog.ipleaders.in/bns-vs-ipc-comparison-2026/) · [ipc2bns.in (IPC 420)](https://www.ipc2bns.in/section/ipc-420) · [Vakeel360 IPC 411](https://vakeel360.com/ipc-to-bns/section-411-dishonestly-receiving-stolen-property) · [Jurigram IPC 467](https://jurigram.com/advocates/resources/new-laws/467-ipc-in-bns) · [Vakilpedia IPC 294](https://www.vakilpedia.com/ipc-294-to-bns) · [Vakeel360 IPC 193](https://vakeel360.com/ipc-to-bns/section-193-false-evidence) · [ApniLaw IPC 211 vs BNS 248](https://www.apnilaw.com/legal-articles/acts/section-211-of-ipc-vs-section-248-of-the-bharatiya-nyaya-sanhita/) · [Vakilsearch BNS 217](https://vakilsearch.com/bns/sections/217) · [Lexology/LawSikho BNSS comparisons](https://lawsikho.com/blog/fir-registration-bnss-vs-crpc-section-173-154-changes/) · [iPleaders BNSS 479](https://blog.ipleaders.in/maximum-detention-of-an-undertrial-and-release-section-479-bnss/) · [ApniLaw CrPC 320 vs BNSS 359](https://www.apnilaw.com/legal-articles/acts/section-320-crpc-vs-section-359-bnss-compounding-of-criminal-offences/)

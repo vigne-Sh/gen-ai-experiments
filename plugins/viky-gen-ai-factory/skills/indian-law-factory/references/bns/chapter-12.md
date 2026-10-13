@@ -1,0 +1,110 @@
+# BNS Chapter XII — Of Offences by or relating to Public Servants (sections 198–205)
+
+Text of the Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023) **as enacted**, from the Gazette of India
+copy (see `README.md` for the source, checksum and method). Each section is followed by this skill's
+notes: the old IPC equivalent and, for common offences, a plain-words summary. The notes are this
+skill's own work, not part of the Act. **Check India Code for any later amendment before relying on the text.**
+
+### BNS 198 — Public servant disobeying law, with intent to cause injury to any person.
+
+Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both.
+
+_Illustration._
+
+A, being an officer directed by law to take property in execution, in order to satisfy a decree pronounced in Z’s favour by a Court, knowingly disobeys that direction of law, with the knowledge that he is likely thereby to cause injury to Z. A has committed the offence defined in this section.
+
+**Notes (this skill, not the Act):**
+
+- Wording match: IPC 166 (Public servant disobeying law, with intent to cause injury t, 82% of its wording found here)
+
+---
+
+### BNS 199 — Public servant disobeying direction under law.
+
+Whoever, being a public servant,—
+
+(a) knowingly disobeys any direction of the law which prohibits him from requiring
+
+the attendance at any place of any person for the purpose of investigation into an
+
+offence or any other matter; or
+
+(b) knowingly disobeys, to the prejudice of any person, any other direction of
+
+the law regulating the manner in which he shall conduct such investigation; or
+
+(c) fails to record any information given to him under sub-section (1) of
+
+section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 in relation to cognizable
+
+offence punishable under section 64, section 65, section 66, section 67, section 68,
+
+section 70, section 71, section 74, section 76, section 77, section 79, section 124,
+
+section 143 or section 144, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.
+
+**Notes (this skill, not the Act):**
+
+- No IPC section with matching wording found in the copy used — the section may be new, rewritten, or from an IPC amendment the copy lacks. Check live before naming an IPC number.
+
+---
+
+### BNS 200 — Punishment for non- treatment of victim.
+
+Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 397 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+**Notes (this skill, not the Act):**
+
+- No IPC section with matching wording found in the copy used — the section may be new, rewritten, or from an IPC amendment the copy lacks. Check live before naming an IPC number.
+
+---
+
+### BNS 201 — Public servant framing an incorrect document with intent to cause injury.
+
+Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record, frames, prepares or translates that document or electronic record in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.
+
+**Notes (this skill, not the Act):**
+
+- Wording match: IPC 167 (Public servant framing an incorrect document with intent to , 77% of its wording found here)
+
+---
+
+### BNS 202 — Public servant unlawfully engaging in trade.
+
+Whoever, being a public servant, and being legally bound as such public servant not to engage in trade, engages in trade, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both or with community service.
+
+**Notes (this skill, not the Act):**
+
+- Wording match: IPC 168 (Public servant unlawfully engaging in trade, 59% of its wording found here)
+
+---
+
+### BNS 203 — Public servant unlawfully buying or bidding for property.
+
+Whoever, being a public servant, and being legally bound as such public servant, not to purchase or bid for certain property, purchases or bids for that property, either in his own name or in the name of another, or jointly, or in shares with others, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both; and the property, if purchased, shall be confiscated.
+
+**Notes (this skill, not the Act):**
+
+- Wording match: IPC 169 (Public servant unlawfully buying or bidding for property, 93% of its wording found here)
+
+---
+
+### BNS 204 — Personating a public servant.
+
+Whoever pretends to hold any particular office as a public servant, knowing that he does not hold such office or falsely personates any other person holding such office, and in such assumed character does or attempts to do any act under colour of such office, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to three years and with fine.
+
+**Notes (this skill, not the Act):**
+
+- Wording match: IPC 170 (Personating a public servant, 73% of its wording found here)
+
+---
+
+### BNS 205 — Wearing garb or carrying token used by public servant with fraudulent intent.
+
+Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.
+
+**Notes (this skill, not the Act):**
+
+- Wording match: IPC 171 (Wearing garb or carrying token used by public servant with f, 85% of its wording found here)
+
+---

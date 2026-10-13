@@ -8,14 +8,16 @@ against what — and, just as importantly, what within that domain
 *hasn't* been checked yet. Point users here if they ask where a claim
 comes from, or which domain file to read for more depth.
 
-**Last full pass:** 2026-10-13 — helplines, RTI appeals, RERA, NGT, Domestic Violence/Dowry/wills, POCSO, IT Act 66D–67A, DPDP Rules and unpaid wages added. Earlier pass: 2026-09-30 (citizen files `citizen-first-steps.md`, `bns-ipc-key-offences.md`, `a-to-z-key-laws.md` added 2026-10-05)
+**Last full pass:** 2026-10-13 — full BNS text and IPC→BNS index added from official PDFs (checksums in `references/bns/README.md`); helplines, RTI appeals, RERA, NGT, Domestic Violence/Dowry/wills, POCSO, IT Act 66D–67A, DPDP Rules and unpaid wages added. Earlier pass: 2026-09-30 (citizen files `citizen-first-steps.md`, `bns-ipc-key-offences.md`, `a-to-z-key-laws.md` added 2026-10-05)
 
 ## Domain files (`references/`)
 
 | File | Domain |
 |---|---|
 | [`citizen-first-steps.md`](references/citizen-first-steps.md) | **Start here for a person with no lawyer** — FIR/Zero FIR, rights on arrest, bail and settlement, free legal aid, law-abiding habits |
-| [`bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) | ~70 common offences, IPC ↔ BNS (511 vs 358 sections), what must be shown, plus CrPC ↔ BNSS procedure map |
+| [`bns-ipc-key-offences.md`](references/bns-ipc-key-offences.md) | ~80 common offences, IPC ↔ BNS (511 vs 358 sections), what must be shown, new/dropped offences, plus CrPC ↔ BNSS procedure map |
+| [`bns/`](references/bns/README.md) | **Full text of all 358 BNS sections** (Gazette, as enacted), one file per chapter, each with its old IPC number (official chart or wording match, labelled) and plain-words notes for common offences |
+| [`ipc-to-bns-index.md`](references/ipc-to-bns-index.md) | Every IPC section (MHA copy) with its BNS home — 465 of 548 rows mapped; notes for sedition, 309, 377, 497 |
 | [`a-to-z-key-laws.md`](references/a-to-z-key-laws.md) | Alphabetical map of ~45 key central Acts — which law deals with what |
 | [`constitutional-law.md`](references/constitutional-law.md) | Constitution, fundamental rights, landmark SC cases (Kesavananda Bharati, Maneka Gandhi, Puttaswamy, Vishaka) |
 | [`criminal-law.md`](references/criminal-law.md) | BNS/BNSS/BSA ↔ IPC/CrPC/Evidence Act mappings; arrest, bail and quashing cases; POCSO duty to report |
